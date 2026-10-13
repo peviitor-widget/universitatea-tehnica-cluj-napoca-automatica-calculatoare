@@ -1,173 +1,428 @@
 [
   {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272347/Bosch-Romania/-Embedded-AI-Software-Engineer-Mid-Level",
+    "url": "https://jobs.bosch.com/en/job/REF289650F-embedded-ai-software-engineer-mid-level",
     "title": "Embedded AI Software Engineer Mid-Level",
     "company": "BOSCH REXROTH S.R.L.",
     "location": [
-      "Romania"
+      "Cluj-Napoca, Romania"
     ],
     "salary": null,
-    "date": "2026-10-11T15:04:50.204Z",
+    "date": "2026-10-12T17:27:20.626Z",
     "status": "scraped",
     "tags": [
-      "dezvoltare software",
-      "gândire tehnică"
+      "analiza dezvoltare software",
+      "competente digitale"
     ],
-    "matchPercentage": 88,
-    "reason": "Inginer software embedded/AI mid-level, se potrivește direct domeniului și nivelului."
+    "matchPercentage": 95,
+    "reason": "Poziția se potrivește direct cu dezvoltarea software în domeniul embedded și AI."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/mid-level-web-developer-8",
-    "title": "Mid-Level Web Developer",
-    "company": "VALSOR GARAGE S.R.L.",
+    "url": "https://www.bestjobs.eu/loc-de-munca/programator-delphi-mid-level-4",
+    "title": "Programator Delphi Mid-Level",
+    "company": "MAGISTER SOFTWARE SRL",
+    "location": [
+      "Strada Radu de la Afumati, București, Romania,Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-12T17:26:30.370Z",
+    "status": "scraped",
+    "tags": [
+      "analiza dezvoltare software",
+      "competente digitale"
+    ],
+    "matchPercentage": 95,
+    "reason": "Programarea în Delphi corespunde direct competențelor de dezvoltare software."
+  },
+  {
+    "url": "https://jobs.bosch.com/en/job/REF297096R-working-student-data-engineering",
+    "title": "Working Student Data Engineering",
+    "company": "BOSCH REXROTH S.R.L.",
+    "location": [
+      "Cluj-Napoca, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-12T17:27:35.198Z",
+    "status": "scraped",
+    "tags": [
+      "analiza dezvoltare software",
+      "competente digitale"
+    ],
+    "matchPercentage": 95,
+    "reason": "Data Engineering se potrivește direct cu competențele tehnice din domeniul IT."
+  },
+  {
+    "url": "https://cariere.reginamaria.ro/company/regina-maria-1/jobs/junior-analist-aplicatii-software-3",
+    "title": "Junior Analist Aplicatii Software",
+    "company": "REGINA MARIA - BANCA CENTRALĂ DE CELULE STEM S.A.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-12T17:33:54.128Z",
+    "status": "scraped",
+    "tags": [
+      "analiza si dezvoltare software",
+      "competente digitale"
+    ],
+    "matchPercentage": 90,
+    "reason": "Junior Analist Aplicații Software, se potrivește direct cu competențele de dezvoltare și analiză software."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153182257",
+    "title": "Working Student in Verification &amp; Validation &amp; Test Automation",
+    "company": "DEN BOSCH GROUP SRL",
+    "location": [
+      "Cluj-Napoca, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-12T17:29:17.572Z",
+    "status": "scraped",
+    "tags": [
+      "analiza dezvoltare software",
+      "competente digitale"
+    ],
+    "matchPercentage": 90,
+    "reason": "Verificarea, validarea și testarea automată sunt relevante pentru dezvoltarea software."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/programator-react-nextjs-si-nestjs-b2b-1",
+    "title": "Programator React/NextJS și NestJS – B2B",
+    "company": "SWICON IT SERVICES SRL",
     "location": [
       "Remote, Romania"
     ],
     "salary": null,
-    "date": "2026-10-11T15:02:52.265Z",
+    "date": "2026-10-12T17:34:15.013Z",
     "status": "scraped",
     "tags": [
-      "dezvoltare software",
-      "competențe digitale"
-    ],
-    "matchPercentage": 88,
-    "reason": "Dezvoltator web mid-level cu PHP/JS/SQL, domeniu și nivel de experiență potrivite."
-  },
-  {
-    "url": "https://www.esolutions.tech/big-data-developer",
-    "title": "Big Data Developer",
-    "company": "ESOLUTIONS GRUP SRL",
-    "location": [
-      "București, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-11T15:09:10.605Z",
-    "status": "scraped",
-    "tags": [
-      "dezvoltare software",
+      "competente digitale",
       "TIC"
     ],
-    "matchPercentage": 86,
-    "reason": "Developer Big Data mid-level, foloseste direct competentele de analiza si dezvoltare software."
+    "matchPercentage": 85,
+    "reason": "Dezvoltator software React/NextJS/NestJS în domeniul IT, nivel potrivit pentru junior/mid."
   },
   {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/271129/Bosch-Romania/Working-Student-in-Embedded-Software-Development---High-Level",
-    "title": "Working Student in Embedded Software Development - High Level",
-    "company": "BOSCH REXROTH S.R.L.",
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272401/Vodafone-Romania/Vodafone-Romania-Discover-Graduate-IT-AI-Engineering-Programme,-2027",
+    "title": "Vodafone Romania Discover Graduate IT-AI Engineering Programme, 2027",
+    "company": "VODAFONE ROMANIA SA",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-12T17:34:00.066Z",
+    "status": "scraped",
+    "tags": [
+      "competente digitale",
+      "gandire tehnologica"
+    ],
+    "matchPercentage": 85,
+    "reason": "Program graduate de inginerie IT-AI, nivel de intrare potrivit și domeniu direct relevant."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/271153/AUMOVIO-Romania/Internship-for-Software-Test-Engineer-(Iasi)",
+    "title": "Internship for Software Test Engineer (Iasi)",
+    "company": "AUMOVIO TECHNOLOGIES ROMANIA S.R.L.",
+    "location": [
+      "Iași, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-12T17:32:23.904Z",
+    "status": "scraped",
+    "tags": [
+      "analiza si dezvoltare software",
+      "competente digitale"
+    ],
+    "matchPercentage": 85,
+    "reason": "Internship pentru Software Test Engineer, direct relevant pentru analiză și dezvoltare software."
+  },
+  {
+    "url": "https://atek.ro/apply-ai-dev.html",
+    "title": "AI Software Developer",
+    "company": "ATEK SOFTWARE SRL",
+    "location": [
+      "Iași, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-12T17:33:58.023Z",
+    "status": "scraped",
+    "tags": [
+      "competente digitale",
+      "gandire tehnologica"
+    ],
+    "matchPercentage": 82,
+    "reason": "Dezvoltator software AI, domeniu IT direct relevant pentru competențele digitale."
+  },
+  {
+    "url": "https://atek.ro/apply-java-se-dev.html",
+    "title": "Java Software Developer",
+    "company": "ATEK SOFTWARE SRL",
+    "location": [
+      "Iași,Botoșani, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-12T17:33:58.023Z",
+    "status": "scraped",
+    "tags": [
+      "competente digitale",
+      "TIC"
+    ],
+    "matchPercentage": 82,
+    "reason": "Dezvoltator Java, domeniu software potrivit competențelor tehnice."
+  },
+  {
+    "url": "https://www.undelucram.ro/ro/locuri-de-munca/scientific-computing-spatial-analytics-engineer/100537",
+    "title": "Scientific Computing &amp; Spatial Analytics Engineer",
+    "company": "SOFTSERVE ROMANIA S.R.L.",
     "location": [
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-11T15:06:22.248Z",
+    "date": "2026-10-12T17:34:17.453Z",
     "status": "scraped",
     "tags": [
-      "dezvoltare software",
-      "TIC"
-    ],
-    "matchPercentage": 85,
-    "reason": "Working student în dezvoltare software embedded, nivel de student și domeniu IT direct."
-  },
-  {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/270351/SLB/IT-Internship",
-    "title": "IT Internship",
-    "company": "PERSY SLB S.R.L.",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-11T15:07:41.536Z",
-    "status": "scraped",
-    "tags": [
-      "dezvoltare software",
-      "TIC"
+      "competente digitale",
+      "gandire matematica"
     ],
     "matchPercentage": 82,
-    "reason": "Internship IT la companie tehnologica globala, nivel si domeniu potrivite."
+    "reason": "Inginer software in calcul stiintific si analiza spatiala, foloseste direct competentele digitale si gandirea tehnologica, nivel mid."
   },
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3384360",
-    "title": "ADMINISTRATOR BAZE DE DATE",
-    "company": "COMPANIA NAŢIONALĂ DE ADMINISTRARE A INFRASTRUCTURII RUTIERE S.A.",
-    "location": [
-      "Bucuresti sectorul 1, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-11T15:08:53.290Z",
-    "status": "scraped",
-    "tags": [
-      "gandire tehnologica",
-      "TIC"
-    ],
-    "matchPercentage": 80,
-    "reason": "Administrator baze de date entry-level (0 ani), domeniu IT direct relevant."
-  },
-  {
-    "url": "https://multijobs.ro/job/project-manager-entry-level-zona-metropolitana-timisoara-regim-hibrid/5949",
-    "title": "Project Manager – entry level – Zona metropolitană Timișoara, Regim hibrid",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "url": "https://www.undelucram.ro/ro/locuri-de-munca/internship-it-8h-tires/101140",
+    "title": "Internship IT (8h) - Tires",
+    "company": "CONTINENTAL SRL",
     "location": [
       "Timișoara, Romania"
     ],
     "salary": null,
-    "date": "2026-10-11T15:08:10.368Z",
+    "date": "2026-10-12T17:34:00.066Z",
+    "status": "scraped",
+    "tags": [
+      "competente digitale",
+      "TIC"
+    ],
+    "matchPercentage": 80,
+    "reason": "Internship IT în echipa de infrastructură, nivel de stagiu și domeniu tehnic potrivit."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/senior-software-engineer-cloud-ai",
+    "title": "Full stack developer",
+    "company": "I &amp; M GOLD ELECTRA TRADE SRL",
+    "location": [
+      "Strada Gara Herastrau 2, 020334 Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-12T17:34:10.744Z",
+    "status": "scraped",
+    "tags": [
+      "competente digitale",
+      "TIC"
+    ],
+    "matchPercentage": 80,
+    "reason": "Full stack developer în domeniul IT, nivel accesibil pentru început de carieră."
+  },
+  {
+    "url": "https://jobs.lenovo.com/careers/JobDetail/Backend-Developer/78222",
+    "title": "Backend Developer",
+    "company": "LENOVO INTERN LINE SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-12T17:34:17.453Z",
+    "status": "scraped",
+    "tags": [
+      "competente digitale",
+      "TIC"
+    ],
+    "matchPercentage": 78,
+    "reason": "Poziție de backend developer în domeniul IT, potrivită pentru nivel junior/mid."
+  },
+  {
+    "url": "https://jobs.vodafone.com/careers/job/563018697453370",
+    "title": "Technical Project Coordination Trainee",
+    "company": "VODAFONE ROMANIA SA",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-12T17:30:48.631Z",
+    "status": "scraped",
+    "tags": [
+      "gestionare proiecte",
+      "competente digitale"
+    ],
+    "matchPercentage": 75,
+    "reason": "Trainee în coordonare proiecte tehnice IT/telco, potrivit pentru planificare și gestionare de proiecte."
+  },
+  {
+    "url": "https://makitajobs.ro/it-specialist/",
+    "title": "Specialist IT/Administrator de Rețea",
+    "company": "MAKITA EU SRL",
+    "location": [
+      "all, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-12T17:33:45.259Z",
+    "status": "scraped",
+    "tags": [
+      "IT",
+      "retea"
+    ],
+    "matchPercentage": 72,
+    "reason": "Specialist IT/administrator de retea, potrivire directa pe IT si TIC."
+  },
+  {
+    "url": "https://jobs.vodafone.com/careers/job/563018696611136",
+    "title": "DevOps Specialist",
+    "company": "VODAFONE ROMANIA SA",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-12T17:34:13.752Z",
+    "status": "scraped",
+    "tags": [
+      "competente digitale",
+      "gestionare proiecte"
+    ],
+    "matchPercentage": 70,
+    "reason": "Rol IT/software potrivit domeniului de Automatica si Calculatoare, cu nivel de specialist accesibil."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/linux-system-administrator-131",
+    "title": "Linux System Administrator",
+    "company": "LUGERA OUTSOURCING S.R.L.",
+    "location": [
+      "Brașov, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-12T17:33:55.050Z",
+    "status": "scraped",
+    "tags": [
+      "IT",
+      "administrare sistem"
+    ],
+    "matchPercentage": 70,
+    "reason": "Administrator sistem Linux, domeniu IT cu nivel potrivit."
+  },
+  {
+    "url": "https://ppc.jobful.io/company/ppc-energy/jobs/ot-cybersecurity-administrator",
+    "title": "OT Cybersecurity Administrator",
+    "company": "PPC ENERGIE S.A.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-12T17:33:43.328Z",
+    "status": "scraped",
+    "tags": [
+      "IT",
+      "cybersecurity"
+    ],
+    "matchPercentage": 70,
+    "reason": "Administrator OT Cybersecurity, domeniu IT securitate informationala."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/system-administrator-infrastucture-engineer",
+    "title": "System Administrator/Infrastucture Engineer",
+    "company": "SKYWIND LIVE S.R.L.",
+    "location": [
+      "Swan Office,Voluntari, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-12T17:33:34.911Z",
+    "status": "scraped",
+    "tags": [
+      "IT",
+      "infrastructura"
+    ],
+    "matchPercentage": 70,
+    "reason": "System Administrator/Infrastructure Engineer, domeniu IT potrivit."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/administrator-sistem-19",
+    "title": "Administrator sistem",
+    "company": "TACROM SERVICES SRL",
+    "location": [
+      "București, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-12T17:32:30.418Z",
+    "status": "scraped",
+    "tags": [
+      "IT",
+      "administrare sistem"
+    ],
+    "matchPercentage": 70,
+    "reason": "Administrator sistem, domeniu IT cu sarcini tehnice potrivite."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/asistent-proiect-19",
+    "title": "Asistent proiect",
+    "company": "ASOCIATIA CRESTINA DE PRESTARI SERVICII SCINTEIA SRL",
+    "location": [
+      "Strada Alexandru Odobescu 48, Satu Mare, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-12T17:33:58.023Z",
     "status": "scraped",
     "tags": [
       "management proiecte",
-      "planificare"
+      "ONG"
     ],
-    "matchPercentage": 80,
-    "reason": "Project Manager entry-level, se aliniaza direct cu planificarea si gestionarea proiectelor."
+    "matchPercentage": 68,
+    "reason": "Asistent proiect intr-o asociatie, potrivire pe management de proiecte si ONG."
   },
   {
-    "url": "https://jobs-cee.pwc.com/ce/en/job/743860WD",
-    "title": "ServiceNow Developer_New Contractor Onboarding_CEE IT Technology Export Office",
-    "company": "HANDRA PWC S.R.L.",
+    "url": "https://www.bestjobs.eu/loc-de-munca/it-operations-engineer-it-administrator-german-speaker-m-f-d",
+    "title": "IT Operations Engineer / IT Administrator (German speaker) (m/f/d)",
+    "company": "JUSTROCKET CLJ SRL",
+    "location": [
+      "Remote, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-12T17:33:51.001Z",
+    "status": "scraped",
+    "tags": [
+      "IT",
+      "administrare"
+    ],
+    "matchPercentage": 68,
+    "reason": "IT Operations/Administrator, domeniu IT, dar cere limba germana."
+  },
+  {
+    "url": "https://www.globallogic.com/careers/data-qa-automation-engineer-irc305447/",
+    "title": "Data QA Automation Engineer IRC305447",
+    "company": "GLOBALLOGIC ROMANIA S.R.L.",
     "location": [
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-10-11T15:09:00.966Z",
+    "date": "2026-10-12T17:33:35.942Z",
     "status": "scraped",
     "tags": [
-      "competente digitale",
-      "gandire tehnologica"
+      "analiza software",
+      "TIC"
     ],
-    "matchPercentage": 78,
-    "reason": "Developer ServiceNow pe program de onboarding, domeniu IT/software direct relevant si nivel de intrare."
+    "matchPercentage": 68,
+    "reason": "Data QA Automation Engineer este in domeniul IT/software si implica analiza si testare automata, potrivit unui junior/mid."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/administrator-de-retea-de-calculatoare-29",
-    "title": "Administrator de retea de calculatoare",
-    "company": "LEMAN INDUSTRIE SRL",
+    "url": "https://www.bestjobs.eu/loc-de-munca/mentor-educational-part-time-nu-babysitting-1",
+    "title": "MENTOR EDUCAȚIONAL PART-TIME (NU BABYSITTING)",
+    "company": "ORALDENTIS SRL",
     "location": [
-      "Arges, Mioveni, Romania"
+      "Str. Nicolae G. Caramfil, Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-10-11T15:07:04.535Z",
+    "date": "2026-10-12T17:33:49.967Z",
     "status": "scraped",
     "tags": [
-      "competente digitale",
-      "rationament tehnologic"
+      "educatie nonformala",
+      "comunicare orala"
     ],
-    "matchPercentage": 76,
-    "reason": "Administrator rețea de calculatoare, rol IT entry-level relevant."
-  },
-  {
-    "url": "https://cariere.groupama.ro/job/Bucuresti-Specialist-Comunicatii-IT/1445090133/",
-    "title": "Specialist Comunicatii IT",
-    "company": "GROUPAMA ASIGURARI SA",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-11T15:09:48.293Z",
-    "status": "scraped",
-    "tags": [
-      "competente digitale",
-      "gandire tehnologica"
-    ],
-    "matchPercentage": 70,
-    "reason": "Specialist comunicatii IT (retele/cloud) cu minim 1 an experienta, domeniu IT relevant."
+    "matchPercentage": 68,
+    "reason": "Mentor educational, se incadreaza in educatie nonformala si implica planificarea si conducerea de activitati educationale."
   },
   {
     "url": "https://dreamjobs.ro/ro/job/startuphub/consultant-in-fonduri-europene-2",
@@ -177,267 +432,81 @@
       "Marosvasarhely, Romania"
     ],
     "salary": null,
-    "date": "2026-10-11T15:05:10.012Z",
+    "date": "2026-10-12T17:25:04.479Z",
     "status": "scraped",
     "tags": [
       "gestionare proiecte",
-      "documentare"
-    ],
-    "matchPercentage": 70,
-    "reason": "Consultant medior care gestioneaza intregul ciclu al proiectelor, direct pe planificare si gestionare de proiecte."
-  },
-  {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/222111/JumpStart---A-GenZ-Career-Hub/Programe-de-internship,-trainee-sau-joburi-entry-level-in-IT",
-    "title": "Programe de internship, trainee sau joburi entry-level in IT",
-    "company": "JUMP START SRL",
-    "location": [
-      "Bucuresti,Iași,Timișoara, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-11T14:54:50.893Z",
-    "status": "scraped",
-    "tags": [
-      "dezvoltare software",
-      "competente digitale"
+      "parteneriate institutionale"
     ],
     "matchPercentage": 68,
-    "reason": "Programe de internship/entry-level in IT, domeniu direct potrivit cu profilul."
+    "reason": "Nivel medior declarat, gestioneaza intregul ciclu de proiect, potrivit competentelor de management de proiect."
   },
   {
-    "url": "https://www.leohr.ro/jobs/erp-it-specialist/193/",
-    "title": "ERP IT Specialist",
-    "company": "LEOHR S.R.L.",
+    "url": "https://www.undelucram.ro/ro/locuri-de-munca/data-bi-engineer-bigquery-spanner-looker/101109",
+    "title": "Data &amp; BI Engineer (BigQuery, Spanner &amp; Looker)",
+    "company": "PROCTER &amp; GAMBLE DISTRIBUTION SRL",
     "location": [
-      "Bucuresti, Romania"
+      "București, Romania"
     ],
     "salary": null,
-    "date": "2026-10-11T15:09:59.574Z",
+    "date": "2026-10-12T17:33:35.942Z",
     "status": "scraped",
     "tags": [
-      "competente digitale",
+      "analiza software",
       "gandire tehnologica"
     ],
-    "matchPercentage": 65,
-    "reason": "Specialist ERP, domeniu IT potrivit si nivel compatibil cu un absolvent."
+    "matchPercentage": 66,
+    "reason": "Data & BI Engineer este un rol IT de construire pipeline-uri si modele de date, in domeniul analizei software si fara nivel senior declarat."
   },
   {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/271368/Bosch-Romania/Working-Student-Digitalization-in-Quality",
-    "title": "Working Student Digitalization in Quality",
-    "company": "BOSCH REXROTH S.R.L.",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000152410109",
+    "title": "Working Student Laboratory Support (Electronics Testing)",
+    "company": "DEN BOSCH GROUP SRL",
     "location": [
-      "Romania"
+      "Jucu, Romania"
     ],
     "salary": null,
-    "date": "2026-10-11T15:06:22.248Z",
+    "date": "2026-10-12T17:33:35.942Z",
     "status": "scraped",
     "tags": [
-      "competente digitale",
-      "gandire tehnologica"
-    ],
-    "matchPercentage": 65,
-    "reason": "Digitalizare in zona de calitate, foloseste competente digitale/TIC si gandire tehnologica, nivel de student."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3397500",
-    "title": "INSTRUCTOR-EDUCATOR PENTRU ACTIVITATI DE RESOCIALIZARE",
-    "company": "INSPECTORATUL GENERAL AL COMUNICATIILOR BUCURESTI RA SUCURSALA DIRECTIA TERITORIALA IASI",
-    "location": [
-      "Deva, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-11T14:45:51.079Z",
-    "status": "scraped",
-    "tags": [
-      "educatie nonformala",
-      "voluntariat"
-    ],
-    "matchPercentage": 65,
-    "reason": "Domeniu parțial potrivit (educație nonformală/resocializare) și nivel potrivit, sub 3 ani experiență."
-  },
-  {
-    "url": "https://www.targuldecariere.ro/companii/schaeffler/18139/data-administrator",
-    "title": "Data Administrator",
-    "company": "SCHAEFFLER ROMANIA SRL",
-    "location": [
-      "Brașov, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-11T15:10:13.716Z",
-    "status": "scraped",
-    "tags": [
-      "competente digitale",
-      "TIC"
-    ],
-    "matchPercentage": 63,
-    "reason": "Administrator de date într-o companie tech, rol IT entry-level potrivit parțial."
-  },
-  {
-    "url": "https://www.leohr.ro/jobs/specialist-it-help-desk/187/",
-    "title": "Specialist IT Help Desk",
-    "company": "LEOHR S.R.L.",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-11T15:09:59.574Z",
-    "status": "scraped",
-    "tags": [
+      "rationament tehnologic",
       "competente digitale"
     ],
-    "matchPercentage": 62,
-    "reason": "Help desk IT, rol entry-level in tehnologia informatiei cu utilizare directa a competentelor digitale."
+    "matchPercentage": 66,
+    "reason": "Working student in laborator de testare electronica, nivel adecvat si domeniu tehnic partial potrivit profilului de Automatica si Calculatoare."
   },
   {
-    "url": "https://www.leohr.ro/jobs/it-support-technician-level-1-2/293/",
-    "title": "IT Support Technician (Level 1-2)",
-    "company": "LEOHR S.R.L.",
+    "url": "https://www.bestjobs.eu/loc-de-munca/asistent-manager-de-proiect-20",
+    "title": "Asistent Manager de Proiect",
+    "company": "BIOBUILDS HOME S.R.L.",
     "location": [
-      "Bucuresti, Romania"
+      "Gaesti, Romania,Targoviste, Romania,Parc Industrial Moreni, Strada Teis, Moreni, Romania,105600 Campina, Romania,Ploiesti, Romania"
     ],
     "salary": null,
-    "date": "2026-10-11T15:06:05.507Z",
+    "date": "2026-10-12T17:33:49.967Z",
     "status": "scraped",
     "tags": [
-      "TIC",
-      "competențe digitale"
+      "management proiecte",
+      "planificare"
     ],
-    "matchPercentage": 62,
-    "reason": "Tehnician suport IT entry-level, domeniu IT potrivit dar mai puțin orientat spre dezvoltare software."
+    "matchPercentage": 65,
+    "reason": "Asistent manager de proiect, potrivire pe planificare si gestionare a proiectelor."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/consultant-fonduri-europene-220",
-    "title": "Consultant Fonduri Europene",
-    "company": "INCEPTA CONSULTING  SRL",
+    "url": "https://www.bestjobs.eu/loc-de-munca/consultant-expert-fonduri-europene-8",
+    "title": "Consultant / Expert fonduri europene",
+    "company": "INCUBCENTER S.R.L.",
     "location": [
-      "Aleea Barajul Iezeru 6A, Bucuresti, Romania"
+      "Târgu Mureș, Romania"
     ],
     "salary": null,
-    "date": "2026-10-11T15:08:06.373Z",
+    "date": "2026-10-12T17:33:10.459Z",
     "status": "scraped",
     "tags": [
-      "gestionare proiecte",
-      "documentare"
+      "reglementari legale",
+      "planificare proiecte"
     ],
-    "matchPercentage": 62,
-    "reason": "Consultant fonduri europene, rol de gestionare a proiectelor si documentatie, potrivit nivelului de inceput."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3365515",
-    "title": "EXPERT ACCESARE FONDURI STRUCTURALE SI DE COEZIUNE EUROPENE",
-    "company": "UP CIPTRONIC SRL",
-    "location": [
-      "Bucuresti sectorul 1, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-11T15:00:19.718Z",
-    "status": "scraped",
-    "tags": [
-      "gestionare proiecte",
-      "documentare"
-    ],
-    "matchPercentage": 62,
-    "reason": "Accesare fonduri structurale pentru candidati cu sub 3 ani experienta, nivel potrivit."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3393592",
-    "title": "ADMINISTRATOR SISTEM DOCUMENTAR",
-    "company": "FAR FOUNDATION SRL",
-    "location": [
-      "Rodna, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-11T15:10:04.301Z",
-    "status": "scraped",
-    "tags": [
-      "documentare electronica",
-      "competente digitale"
-    ],
-    "matchPercentage": 60,
-    "reason": "Administrator sistem documentar, sub 3 ani experiență, potrivire parțială pe documentare electronică."
-  },
-  {
-    "url": "https://multijobs.ro/job/data-processor-timisoara-regim-hibrid/5106",
-    "title": "Data Processor – Timișoara, Regim hibrid",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Timișoara, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-11T15:08:31.382Z",
-    "status": "scraped",
-    "tags": [
-      "competente digitale",
-      "TIC"
-    ],
-    "matchPercentage": 60,
-    "reason": "Procesare de date la nivel entry, se potriveste partial pe competentele digitale."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/consultant-fonduri-europene-216",
-    "title": "Consultant Fonduri Europene",
-    "company": "ALVICOLI COMERŢ SRL",
-    "location": [
-      "Strada Decebal 82, 900178 Constanta, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-11T15:06:33.897Z",
-    "status": "scraped",
-    "tags": [
-      "planificare proiecte",
-      "redactare rapoarte"
-    ],
-    "matchPercentage": 60,
-    "reason": "Consultant fonduri europene cu sarcini de planificare si raportare de proiecte, nivel de inceput."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/consultant-fonduri-europene-219",
-    "title": "Consultant fonduri europene",
-    "company": "BUSINESS PROJECT CONSULTING SRL",
-    "location": [
-      "Pitești, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-11T14:58:57.295Z",
-    "status": "scraped",
-    "tags": [
-      "planificare proiecte",
-      "redactare rapoarte"
-    ],
-    "matchPercentage": 60,
-    "reason": "Consultant fonduri europene cu activitati de proiect si raportare, nivel de inceput."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/consultant-fonduri-europene-234",
-    "title": "Consultant Fonduri Europene",
-    "company": "BMH PROIECTE FONDURI EUROPENE S.R.L.",
-    "location": [
-      "Craiova, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-11T14:58:00.313Z",
-    "status": "scraped",
-    "tags": [
-      "gestionare proiecte",
-      "documentare"
-    ],
-    "matchPercentage": 60,
-    "reason": "Consultant fonduri europene, sarcini de proiect si documentatie, nivel de inceput."
-  },
-  {
-    "url": "https://www.jobradar24.ro/anunt/consultant-accesare-fonduri-europenenerambursabile-qz6g8k",
-    "title": "Consultant accesare fonduri europene/nerambursabile",
-    "company": "SMART INSURANCE CONSULTANTS S.R.L.",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-11T14:56:49.541Z",
-    "status": "scraped",
-    "tags": [
-      "gestionare proiecte",
-      "redactare rapoarte"
-    ],
-    "matchPercentage": 60,
-    "reason": "Consultant accesare fonduri europene cu minim 3 ani experienta, la limita nivelului mid acceptat."
+    "matchPercentage": 65,
+    "reason": "Consultant fonduri europene, se potriveste partial prin cunoasterea reglementarilor si planificarea de proiecte."
   }
 ]
