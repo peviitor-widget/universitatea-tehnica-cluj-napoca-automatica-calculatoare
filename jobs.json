@@ -1,402 +1,290 @@
 [
   {
-    "url": "https://jobs.borgdesign.ro/#pos_2",
-    "title": "Junior Web Developer",
-    "company": "BORG DESIGN SRL",
+    "url": "https://jobs.lever.co/sugarcrm/017a4113-d3bb-4859-af90-e8de85892baa",
+    "title": "Junior Engineer",
+    "company": "SUGAR CROWN S.R.L.",
     "location": [
-      "București"
-    ],
-    "salary": null,
-    "date": "2026-10-16T16:19:11.117Z",
-    "status": "scraped",
-    "tags": [
-      "analiza si dezvoltare software",
-      "competente digitale"
-    ],
-    "matchPercentage": 95,
-    "reason": "Junior Web Developer foloseste direct competente de dezvoltare software in .NET, C# si OOP."
-  },
-  {
-    "url": "https://careers.bmwtechworks.ro/jobs/7485670-angular-developer",
-    "title": "Angular Developer",
-    "company": "BMW TECHWORKS ROMANIA S.R.L.",
-    "location": [
-      "Cluj-Napoca"
-    ],
-    "salary": null,
-    "date": "2026-10-16T16:09:18.307Z",
-    "status": "scraped",
-    "tags": [
-      "analiza si dezvoltare software",
-      "competente digitale"
-    ],
-    "matchPercentage": 95,
-    "reason": "Angular Developer se potriveste direct cu competentele de dezvoltare software si nivelul junior/mid."
-  },
-  {
-    "url": "https://jobs.lever.co/qualysoft/d4c45d49-4d80-4010-9d79-5a40ac4a187f",
-    "title": "Full-Stack Engineer (Kotlin)",
-    "company": "QUALYSOFT INFORMATION TECHNOLOGY SRL",
-    "location": [
-      "Bucuresti",
+      "Craiova",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-16T13:03:35.604Z",
+    "date": "2026-10-17T12:22:43.296Z",
     "status": "scraped",
     "tags": [
-      "analiza si dezvoltare software",
+      "dezvoltare software",
       "competente digitale"
     ],
     "matchPercentage": 95,
-    "reason": "Full-stack cu Kotlin corespunde direct dezvoltării software."
+    "reason": "Se potrivește direct cu dezvoltarea software, fiind un junior software engineer axat pe produse CRM și AI."
   },
   {
-    "url": "https://job-boards.eu.greenhouse.io/scbitdefendersrl/jobs/4936136101",
-    "title": "iOS Software Developer",
-    "company": "BITDEFENDER SRL",
+    "url": "https://www.undelucram.ro/ro/locuri-de-munca/technical-internship-at-aumovio-tm/96894",
+    "title": "Technical Internship at AUMOVIO (TM)",
+    "company": "AUMOVIO TECHNOLOGIES ROMANIA S.R.L.",
     "location": [
-      "Bucuresti"
+      "Timișoara",
+      "Romania"
     ],
     "salary": null,
-    "date": "2026-10-16T17:19:28.136Z",
+    "date": "2026-10-17T12:20:49.268Z",
     "status": "scraped",
     "tags": [
-      "analiza si dezvoltare software",
+      "dezvoltare software",
+      "competente digitale"
+    ],
+    "matchPercentage": 95,
+    "reason": "Technical Internship acoperă explicit software, hardware, embedded, testare/validare – direct relevant pentru Automatică și Calculatoare."
+  },
+  {
+    "url": "https://multijobs.ro/job/programator/5950",
+    "title": "PROGRAMATOR",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Sibiu",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:22:34.311Z",
+    "status": "scraped",
+    "tags": [
+      "programare",
+      "software"
+    ],
+    "matchPercentage": 90,
+    "reason": "Programare corespunde direct analizei si dezvoltarii software."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/java-developer-integration-consultant-2",
+    "title": "Java Developer / Integration Consultant",
+    "company": "MOSCU SRL",
+    "location": [
+      "Remote",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:22:29.219Z",
+    "status": "scraped",
+    "tags": [
+      "dezvoltare software",
       "competente digitale"
     ],
     "matchPercentage": 90,
-    "reason": "iOS Software Developer foloseste direct competente de dezvoltare software, iar 2 ani experienta se incadreaza in mid."
+    "reason": "Java Developer / Integration Consultant folosește direct competențe de dezvoltare software și integrare, la nivel junior/entry."
   },
   {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000144767549-embedded-ai-software-engineer-mid-level",
-    "title": "Embedded AI Software Engineer Mid-Level",
-    "company": "ROBERT BOSCH SRL",
-    "location": [
-      "Cluj-Napoca"
-    ],
-    "salary": null,
-    "date": "2026-10-16T11:06:47.945Z",
-    "status": "scraped",
-    "tags": [
-      "analiza si dezvoltare software",
-      "competente digitale"
-    ],
-    "matchPercentage": 90,
-    "reason": "Jobul necesită dezvoltare software embedded AI, în directă concordanță cu competențele de analiză și dezvoltare software."
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153182257-working-student-in-verification-validation-test-automation",
-    "title": "Working Student in Verification &amp; Validation &amp; Test Automation",
-    "company": "ROBERT BOSCH SRL",
-    "location": [
-      "Cluj-Napoca"
-    ],
-    "salary": null,
-    "date": "2026-10-16T11:06:47.945Z",
-    "status": "scraped",
-    "tags": [
-      "analiza si dezvoltare software",
-      "competente digitale"
-    ],
-    "matchPercentage": 90,
-    "reason": "Verification, validation și test automation folosește direct competențe de analiză și dezvoltare software."
-  },
-  {
-    "url": "https://careers.bmwtechworks.ro/jobs/7601239-software-builder-ai-native-team",
-    "title": "Software Builder / AI-Native Team",
-    "company": "BMW TECHWORKS ROMANIA S.R.L.",
-    "location": [
-      "Cluj-Napoca"
-    ],
-    "salary": null,
-    "date": "2026-10-16T16:09:18.307Z",
-    "status": "scraped",
-    "tags": [
-      "analiza si dezvoltare software",
-      "competente digitale"
-    ],
-    "matchPercentage": 90,
-    "reason": "Software Builder AI-Native implică dezvoltare full-stack și AI, direct relevant pentru specialitatea IT."
-  },
-  {
-    "url": "https://jobs.lever.co/caseware/a75601db-e535-4b83-bf4a-b2a1c729a8fa",
-    "title": "Desktop Software Developer",
-    "company": "CASEWARE ROMANIA S.R.L.",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000151876276",
+    "title": "Working Student Data Engineering",
+    "company": "DEN BOSCH GROUP SRL",
     "location": [
       "Cluj-Napoca",
-      "Bucuresti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-16T13:03:40.458Z",
-    "status": "scraped",
-    "tags": [
-      "analiza si dezvoltare software",
-      "competente digitale"
-    ],
-    "matchPercentage": 90,
-    "reason": "Dezvoltare software desktop C#/.NET direct relevantă."
-  },
-  {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/271921/Societe-Generale-Global-Solution-Centre/Internship-Java-Software-Engineer",
-    "title": "Internship Java Software Engineer",
-    "company": "SOCIETE GENERALE GLOBAL SOLUTION CENTRE S.A.",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-16T13:03:03.226Z",
-    "status": "scraped",
-    "tags": [
-      "dezvoltare software",
-      "competente digitale"
-    ],
-    "matchPercentage": 88,
-    "reason": "Internship de dezvoltare software Java - se potrivește direct cu domeniul IT și analiza/dezvoltarea software, la nivelul de intrare potrivit."
-  },
-  {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/271990/Societe-Generale-Global-Solution-Centre/Internship-C#-Developer",
-    "title": "Internship C# Developer",
-    "company": "SOCIETE GENERALE GLOBAL SOLUTION CENTRE S.A.",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-16T13:03:03.226Z",
-    "status": "scraped",
-    "tags": [
-      "dezvoltare software",
-      "competente digitale"
-    ],
-    "matchPercentage": 88,
-    "reason": "Internship de dezvoltare software C# - se potrivește direct cu domeniul IT și dezvoltarea software, la nivel de intrare."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3418949",
-    "title": "INGINER DE SISTEM ÎN INFORMATICA",
-    "company": "AROBS TRANSILVANIA SOFTWARE S.A.",
-    "location": [
-      "CLUJ-NAPOCA"
-    ],
-    "salary": null,
-    "date": "2026-10-16T16:16:12.450Z",
-    "status": "scraped",
-    "tags": [
-      "analiza si dezvoltare software",
-      "competente digitale"
-    ],
-    "matchPercentage": 85,
-    "reason": "Inginer de sistem în informatică implică activități tehnice de specialitate, potrivite ca junior/mid."
-  },
-  {
-    "url": "https://careers.bmwtechworks.ro/jobs/7484934-mulesoft-developer",
-    "title": "MuleSoft Developer",
-    "company": "BMW TECHWORKS ROMANIA S.R.L.",
-    "location": [
-      "Cluj-Napoca"
-    ],
-    "salary": null,
-    "date": "2026-10-16T16:09:18.307Z",
-    "status": "scraped",
-    "tags": [
-      "analiza si dezvoltare software",
-      "competente digitale"
-    ],
-    "matchPercentage": 85,
-    "reason": "MuleSoft Developer presupune dezvoltare software și integrare, în domeniul IT."
-  },
-  {
-    "url": "https://careers.bmwtechworks.ro/jobs/7484625-salesforce-developer",
-    "title": "Salesforce Developer",
-    "company": "BMW TECHWORKS ROMANIA S.R.L.",
-    "location": [
-      "Cluj-Napoca"
-    ],
-    "salary": null,
-    "date": "2026-10-16T16:09:18.307Z",
-    "status": "scraped",
-    "tags": [
-      "analiza si dezvoltare software",
-      "competente digitale"
-    ],
-    "matchPercentage": 85,
-    "reason": "Salesforce Developer este un rol de dezvoltare software, relevant pentru profilul tehnic."
-  },
-  {
-    "url": "https://jobs.borgdesign.ro/#pos_3",
-    "title": "Operator",
-    "company": "BORG DESIGN SRL",
-    "location": [
-      "București"
-    ],
-    "salary": null,
-    "date": "2026-10-16T16:19:11.117Z",
+    "date": "2026-10-17T12:13:30.873Z",
     "status": "scraped",
     "tags": [
       "competente digitale",
       "gandire matematica"
     ],
-    "matchPercentage": 82,
-    "reason": "Junior Web Developer .NET pentru student/absolvent de profil informatic; domeniul de dezvoltare software se aliniaza direct cu domeniile tinta."
+    "matchPercentage": 85,
+    "reason": "Crearea de produse software cu accent pe securitate si automatizare este o potrivire directa cu dezvoltarea si competentele digitale, la nivel de working student."
   },
   {
-    "url": "https://jobs.borgdesign.ro/#pos_7",
-    "title": "Junior Developer AI",
-    "company": "BORG DESIGN SRL",
+    "url": "https://www.bestjobs.eu/loc-de-munca/specialist-suport-it-si-mentenanta-data-center",
+    "title": "Specialist Suport IT si Mentenanta Data Center",
+    "company": "REGIA AUTONOMA PENTRU ACTIVITATI NUCLEARE RA",
     "location": [
-      "București"
+      "Bran",
+      "Brașov",
+      "Romania"
     ],
     "salary": null,
-    "date": "2026-10-16T16:19:11.117Z",
+    "date": "2026-10-17T12:06:12.715Z",
     "status": "scraped",
     "tags": [
-      "analiza si dezvoltare software",
-      "competente digitale"
+      "competente digitale",
+      "TIC"
     ],
     "matchPercentage": 80,
-    "reason": "Junior Developer AI implica dezvoltare software, relevanta partiala fata de profilul tau general."
+    "reason": "IT support si mentenanta Data Center folosesc competente digitale/TIC relevante pentru domeniul AC"
   },
   {
-    "url": "https://careers.bmwtechworks.ro/jobs/7448193-mlops-with-aws",
-    "title": "MLOps with AWS",
-    "company": "BMW TECHWORKS ROMANIA S.R.L.",
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/junior-engineer-global-trainee-zalau/99249296",
+    "title": "Junior Engineer (Global Trainee) | Zalău",
+    "company": "SILCOTUB SA",
     "location": [
-      "Cluj-Napoca"
+      "Zalau",
+      "Romania"
     ],
     "salary": null,
-    "date": "2026-10-16T16:09:18.307Z",
+    "date": "2026-10-17T12:06:32.548Z",
     "status": "scraped",
     "tags": [
-      "analiza si dezvoltare software",
-      "competente digitale"
-    ],
-    "matchPercentage": 80,
-    "reason": "Domeniu MLOps relevă pentru analiza și dezvoltarea software."
-  },
-  {
-    "url": "https://careers.bmwtechworks.ro/jobs/7242643-cyber-security-engineer",
-    "title": "Cyber Security Engineer",
-    "company": "BMW TECHWORKS ROMANIA S.R.L.",
-    "location": [
-      "Cluj-Napoca"
-    ],
-    "salary": null,
-    "date": "2026-10-16T16:09:18.307Z",
-    "status": "scraped",
-    "tags": [
-      "analiza si dezvoltare software",
-      "competente digitale"
-    ],
-    "matchPercentage": 80,
-    "reason": "Inginerie de securitate cibernetică direct legată de specializarea IT."
-  },
-  {
-    "url": "https://jobs.borgdesign.ro/#pos_10",
-    "title": "SQL Developer",
-    "company": "BORG DESIGN SRL",
-    "location": [
-      "București"
-    ],
-    "salary": null,
-    "date": "2026-10-16T16:19:11.117Z",
-    "status": "scraped",
-    "tags": [
-      "analiza si dezvoltare software",
+      "gandire matematica",
       "competente digitale"
     ],
     "matchPercentage": 75,
-    "reason": "SQL Developer se potriveste partial cu dezvoltarea si lucrul cu baze de date relationale."
+    "reason": "Global Trainee cu rotații în Electrical/Automation se potrivește parțial cu profilul de Automatică și Calculatoare, la nivel trainee."
   },
   {
-    "url": "https://jobs.vodafone.com/careers/job/563018698075548",
-    "title": "Back End Developer",
-    "company": "VODAFONE ROMANIA SA",
+    "url": "https://www.anuntul.ro/anunt-angajare-game-tester-experienta-nu-e-eeQryP",
+    "title": "Game Tester Experienta nu e necesara Participare teste jocuri/alte proiecte",
+    "company": "ANUNTUL TOTAL SRL",
     "location": [
       "Bucuresti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-16T13:03:05.364Z",
+    "date": "2026-10-17T12:22:44.667Z",
     "status": "scraped",
     "tags": [
-      "dezvoltare software",
-      "competente digitale"
+      "testare",
+      "software"
     ],
-    "matchPercentage": 74,
-    "reason": "Dezvoltare back-end intr-o echipa Agile, domeniu IT/software direct potrivit, la limita superioara a nivelului de mid cu 3+ ani experienta."
+    "matchPercentage": 70,
+    "reason": "Testarea jocurilor se leaga partial de analiza si dezvoltare software."
   },
   {
-    "url": "https://jobs.borgdesign.ro/#pos_5",
-    "title": "Specialist Marketing",
-    "company": "BORG DESIGN SRL",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000148937215",
+    "title": "Working Student - Production Digitalization",
+    "company": "DEN BOSCH GROUP SRL",
     "location": [
-      "București"
+      "Blaj",
+      "Romania"
     ],
     "salary": null,
-    "date": "2026-10-16T16:19:11.117Z",
+    "date": "2026-10-17T12:16:09.535Z",
     "status": "scraped",
     "tags": [
-      "analiza si dezvoltare software",
-      "competente digitale"
+      "competente digitale",
+      "planificare proiecte"
     ],
-    "matchPercentage": 72,
-    "reason": "Job de junior web developer .NET, potrivit pentru nivelul de intrare in IT, desi titlul de Marketing este derutant."
+    "matchPercentage": 68,
+    "reason": "Digitalizarea productiei, automatizarea rapoartelor si dashboard-urile folosesc direct competentele digitale si planificarea de proiecte, la nivel potrivit."
   },
   {
-    "url": "https://8ore.ro/locuri-de-munca/angajam-administrator-content-marketing",
-    "title": "Angajam Administrator Content-Marketing",
-    "company": "UNITY INTERNATIONAL INVESTMENT GROUP S.R.L.",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155425514",
+    "title": "Working Student in Logistics &amp; Reporting Support",
+    "company": "DEN BOSCH GROUP SRL",
+    "location": [
+      "Jucu",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:19:40.263Z",
+    "status": "scraped",
+    "tags": [
+      "redactare rapoarte",
+      "competente digitale"
+    ],
+    "matchPercentage": 63,
+    "reason": "Rapoarte, grafice, calcul KPI si analiza de date sunt sarcini directe care folosesc competentele de raportare si competente digitale, desi domeniul este logistic."
+  },
+  {
+    "url": "https://www.undelucram.ro/ro/locuri-de-munca/data-analyst/98544",
+    "title": "Data Analyst",
+    "company": "DR. VIERU MAXIM S.R.L.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:22:38.251Z",
+    "status": "scraped",
+    "tags": [
+      "redactare de rapoarte",
+      "competente digitale"
+    ],
+    "matchPercentage": 62,
+    "reason": "Analiza si raportare de date se potriveste partial cu competentele de analiza si redactare rapoarte, nivel apropiat de entry/mid."
+  },
+  {
+    "url": "https://www.targuldecariere.ro/companii/schaeffler/18677/data-engineer",
+    "title": "Data Engineer",
+    "company": "SCHAEFFLER ROMANIA SRL",
+    "location": [
+      "Brașov",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:22:07.185Z",
+    "status": "scraped",
+    "tags": [
+      "competente digitale",
+      "gandire matematica"
+    ],
+    "matchPercentage": 62,
+    "reason": "Inginerie de date in domeniul IT, potrivit partial cu competentele digitale si de analiza, fara cerinte senior."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000144767549",
+    "title": "Embedded AI Software Engineer Mid-Level",
+    "company": "DEN BOSCH GROUP SRL",
     "location": [
       "Cluj-Napoca",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-16T13:03:19.886Z",
+    "date": "2026-10-17T12:15:13.114Z",
     "status": "scraped",
     "tags": [
-      "competente digitale",
-      "comunicare"
+      "gandire matematica",
+      "rationament tehnologic"
     ],
     "matchPercentage": 62,
-    "reason": "Crearea si publicarea de continut digital, adaptarea mesajelor si interactiunea cu comunitatea folosesc direct competentele digitale si de comunicare; nivel entry, part-time."
+    "reason": "Inginerie software la nivel mid, potrivit ca domeniu si nivel, desi zona de embedded AI e peste competentele tale specifice."
   },
   {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000113124977-internship-program",
-    "title": "Internship Program",
-    "company": "ROBERT BOSCH SRL",
+    "url": "https://www.targuldecariere.ro/companii/schaeffler/18674/it-solutions-engineer-data-spaces",
+    "title": "IT Solutions Engineer Data Spaces",
+    "company": "SCHAEFFLER ROMANIA SRL",
     "location": [
-      "Timișoara"
-    ],
-    "salary": null,
-    "date": "2026-10-16T11:06:47.945Z",
-    "status": "scraped",
-    "tags": [
-      "competente digitale",
-      "lucru in echipa"
-    ],
-    "matchPercentage": 62,
-    "reason": "Program de internship care include explicit Computer Science ca domeniu de studiu acceptat, deci există o potrivire parțială de domeniu la nivel de student."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/administrator-centru-de-training",
-    "title": "Administrator Centru de Training",
-    "company": "ROBOTX ACADEMY S.R.L.",
-    "location": [
-      "Bulevardul Iuliu Maniu 7",
-      "Bucuresti 061102",
+      "Brașov",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-16T13:02:35.241Z",
+    "date": "2026-10-17T12:22:07.185Z",
     "status": "scraped",
     "tags": [
-      "planificare proiecte",
-      "educatie nonformala"
+      "competente digitale",
+      "gandire matematica"
     ],
     "matchPercentage": 60,
-    "reason": "Administrarea unui centru de training se incadreaza in domeniul educational nonformal si foloseste competente organizationale si de planificare; nivel de intrare."
+    "reason": "Rol IT de solutii tehnice, se incadreaza in domeniul IT, fara cerinte senior."
+  },
+  {
+    "url": "https://jobs.bosch.com/en/job/REF289650F-embedded-ai-software-engineer-mid-level",
+    "title": "Embedded AI Software Engineer Mid-Level",
+    "company": "BOSCH REXROTH S.R.L.",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:19:06.239Z",
+    "status": "scraped",
+    "tags": [
+      "gandire matematica",
+      "rationament tehnologic"
+    ],
+    "matchPercentage": 60,
+    "reason": "Dezvoltare software intr-un nivel mid potrivit, dar specializarea embedded AI depaseste substantial competentele tehnice din planul tau."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272969/Bosch-Romania/Working-Student-in-Logistics-&amp;-Reporting-Support",
+    "title": "Working Student in Logistics &amp; Reporting Support",
+    "company": "BOSCH REXROTH S.R.L.",
+    "location": [
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:15:55.145Z",
+    "status": "scraped",
+    "tags": [
+      "redactare rapoarte",
+      "competente digitale"
+    ],
+    "matchPercentage": 60,
+    "reason": "Titlul de raportare si suport logistic indica sarcini de rapoarte si analiza de date, potrivite ca nivel, desi descrierea este foarte sumara."
   }
 ]
