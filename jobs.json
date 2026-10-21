@@ -8,14 +8,14 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-19T12:25:32.011Z",
+    "date": "2026-10-20T11:03:42.188Z",
     "status": "scraped",
     "tags": [
-      "analiză și dezvoltare software",
-      "competențe digitale"
+      "gandire matematica",
+      "competente digitale"
     ],
-    "matchPercentage": 88,
-    "reason": "Poziție junior de dezvoltare software .NET, exact în domeniul de analiză și dezvoltare software, la nivelul potrivit."
+    "matchPercentage": 92,
+    "reason": "Dezvoltare web .NET/C# la nivel junior, cu cerinta explicita de student sau absolvent de facultate profil informatic, deci domeniu si nivel direct potrivite."
   },
   {
     "url": "https://jobs.borgdesign.ro/#pos_3",
@@ -26,32 +26,14 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-19T12:25:32.011Z",
+    "date": "2026-10-20T11:03:42.188Z",
     "status": "scraped",
     "tags": [
       "dezvoltare software",
       "competente digitale"
     ],
-    "matchPercentage": 86,
-    "reason": "Rol junior de dezvoltare software .NET (C#, ASP.NET, OOP) pentru studenți/absolvenți de informatică, potrivire directă de domeniu și nivel de intrare."
-  },
-  {
-    "url": "https://jobs.borgdesign.ro/#pos_7",
-    "title": "Junior Developer AI",
-    "company": "BORG DESIGN SRL",
-    "location": [
-      "București",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-19T12:25:32.011Z",
-    "status": "scraped",
-    "tags": [
-      "analiză și dezvoltare software",
-      "competențe digitale"
-    ],
-    "matchPercentage": 86,
-    "reason": "Poziție junior de dezvoltare software în .NET, potrivită ca nivel și domeniu, deși descrierea diferă de titlul de AI."
+    "matchPercentage": 88,
+    "reason": "Junior Web Developer in .NET, orientat spre studenti si absolventi cu profil informatic, se potriveste direct cu analiza si dezvoltarea software."
   },
   {
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156289169-working-student-in-embedded-software-development-high-level",
@@ -62,86 +44,138 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-19T12:44:36.733Z",
+    "date": "2026-10-20T11:15:25.334Z",
     "status": "scraped",
     "tags": [
       "competente digitale",
-      "rationament tehnologic"
+      "lucru in echipa"
+    ],
+    "matchPercentage": 88,
+    "reason": "Working student in dezvoltare software embedded, pe intregul ciclu de dezvoltare, la Bosch Cluj."
+  },
+  {
+    "url": "https://jobs.borgdesign.ro/#pos_7",
+    "title": "Junior Developer AI",
+    "company": "BORG DESIGN SRL",
+    "location": [
+      "București",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-20T11:03:42.188Z",
+    "status": "scraped",
+    "tags": [
+      "competente digitale",
+      "gandire matematica"
     ],
     "matchPercentage": 86,
-    "reason": "Dezvoltare software embedded pe post de working student, potrivire directa de domeniu IT si nivel de intrare."
+    "reason": "Dezvoltare web in .NET/ASP.NET cu OOP si baze de date, nivel junior, direct pe domeniul IT si analiza/dezvoltare software."
   },
   {
-    "url": "https://multijobs.ro/job/consultant-fonduri-europene/2023",
-    "title": "Consultant Fonduri Europene",
-    "company": "DGA EXPERT INVEST INTERNATIONAL S.R.L.",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153182257-working-student-in-verification-validation-test-automation",
+    "title": "Working Student in Verification &amp; Validation &amp; Test Automation",
+    "company": "ROBERT BOSCH SRL",
     "location": [
-      "Bucuresti",
+      "Cluj-Napoca",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:22:14.906Z",
+    "date": "2026-10-20T11:15:25.335Z",
     "status": "scraped",
     "tags": [
-      "planificare proiecte",
-      "competențe europene"
+      "competente digitale",
+      "redactare de rapoarte"
     ],
-    "matchPercentage": 85,
-    "reason": "Consultanță fonduri europene, potrivire directă cu competențele de proiecte și gestionare."
+    "matchPercentage": 86,
+    "reason": "Automatizare de teste si verificare pentru sisteme automotive, direct pe dezvoltare software si documentare tehnica, working student la Bosch Cluj."
   },
   {
-    "url": "https://multijobs.ro/job/consultant-fonduri-europene-bucuresti-hybrid/5781",
-    "title": "Consultant Fonduri Europene – București, Hybrid",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000151876276-working-student-data-engineering",
+    "title": "Working Student Data Engineering",
+    "company": "ROBERT BOSCH SRL",
     "location": [
-      "Bucuresti",
+      "Cluj-Napoca",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:21:59.558Z",
+    "date": "2026-10-20T11:15:25.335Z",
+    "status": "scraped",
+    "tags": [
+      "competente digitale",
+      "gandire matematica"
+    ],
+    "matchPercentage": 86,
+    "reason": "Working student in Data Engineering la Bosch Cluj: dezvoltare de produse software, automatizare si calitate, cu nivel de intrare perfect pentru un student de Calculatoare."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000152838741-working-student-purchasing-project-management",
+    "title": "Working Student - Purchasing Project Management",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-10-20T11:15:25.335Z",
     "status": "scraped",
     "tags": [
       "planificare proiecte",
-      "competențe europene"
+      "documentare electronica"
     ],
-    "matchPercentage": 85,
-    "reason": "Consultanță fonduri europene, domeniu relevant pentru competențele tale."
+    "matchPercentage": 80,
+    "reason": "Coordonarea proceselor de change request si documentarea proiectelor pe platforma PILUM, corespunde managementului de proiecte si documentarii pe platforme electronice."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/specialist-fonduri-europene-4",
-    "title": "Specialist fonduri europene",
-    "company": "BEST SMART CONSULTING SRL",
+    "url": "https://seniorsoftware.ro/cariere/laravel-web-developer",
+    "title": "Job Laravel Web Developer",
+    "company": "SENIOR SOFTWARE AGENCY SRL",
     "location": [
-      "Mioveni",
+      "București",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:20:41.370Z",
+    "date": "2026-10-20T10:36:39.232Z",
     "status": "scraped",
     "tags": [
-      "planificare proiecte",
-      "competențe europene"
+      "competente digitale",
+      "planificare proiecte"
     ],
-    "matchPercentage": 85,
-    "reason": "Specialist fonduri europene, potrivire directă cu profilul tău de competențe."
+    "matchPercentage": 80,
+    "reason": "Laravel Web Developer la o companie de software, fara cerinta de senioritate, deci potrivire directa pe dezvoltare web la nivel junior/mid."
   },
   {
-    "url": "https://multijobs.ro/job/consultanta-fonduri-europene/342",
-    "title": "consultanta fonduri europene",
-    "company": "JUNIOR GROUP SRL",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000150104699-working-student-production-it",
+    "title": "Working Student Production IT",
+    "company": "ROBERT BOSCH SRL",
     "location": [
-      "Constanta",
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-10-20T11:15:25.335Z",
+    "status": "scraped",
+    "tags": [
+      "IT",
+      "documentare"
+    ],
+    "matchPercentage": 78,
+    "reason": "Working student in IT Production, cu infrastructura IT si documentare pe platforme electronice, nivel potrivit pentru student avansat."
+  },
+  {
+    "url": "https://www.artsoft-consult.ro/contact/internship-cv",
+    "title": "Internship",
+    "company": "ARTSOFT CONSULT SRL",
+    "location": [
+      "Cluj-Napoca",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:04:11.925Z",
+    "date": "2026-10-20T11:15:58.567Z",
     "status": "scraped",
     "tags": [
-      "planificare proiecte",
-      "competențe europene"
+      "competente digitale",
+      "dezvoltare profesionala"
     ],
-    "matchPercentage": 85,
-    "reason": "Consultanță fonduri europene, potrivire directă cu competențele tale."
+    "matchPercentage": 78,
+    "reason": "Internship intr-o companie IT din Cluj-Napoca, nivel potrivit si domeniu relevant, desi anuntul nu detaliaza sarcinile tehnice."
   },
   {
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000144767549-embedded-ai-software-engineer-mid-level",
@@ -152,14 +186,14 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-19T12:44:36.733Z",
+    "date": "2026-10-20T11:15:25.335Z",
     "status": "scraped",
     "tags": [
       "competente digitale",
-      "rationament tehnologic"
+      "gandire matematica"
     ],
-    "matchPercentage": 82,
-    "reason": "Inginerie software embedded AI la nivel mid, in domeniul IT acceptat si cu nivel corespunzator."
+    "matchPercentage": 78,
+    "reason": "Proiectare si implementare de sisteme embedded cu acceleratoare AI, nivel mid si localitate potrivita profilului de automatica si calculatoare."
   },
   {
     "url": "https://jobs.bosch.com/en/job/REF289650F-embedded-ai-software-engineer-mid-level",
@@ -174,82 +208,99 @@
     "status": "scraped",
     "tags": [
       "competente digitale",
-      "rationament tehnologic"
+      "gandire matematica"
     ],
-    "matchPercentage": 82,
-    "reason": "Inginerie software embedded AI mid-level, potrivire directa de domeniu IT si nivel acceptat."
+    "matchPercentage": 78,
+    "reason": "Dezvoltare software embedded cu componente AI la Bosch Cluj, nivel mid compatibil cu profilul tau tehnic."
   },
   {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153182257-working-student-in-verification-validation-test-automation",
-    "title": "Working Student in Verification &amp; Validation &amp; Test Automation",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155962579-full-stack-developer-with-ai",
+    "title": "Full-stack Developer with AI",
     "company": "ROBERT BOSCH SRL",
     "location": [
       "Cluj-Napoca",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-19T12:44:36.733Z",
+    "date": "2026-10-20T11:15:25.334Z",
     "status": "scraped",
     "tags": [
-      "rationament tehnologic",
+      "competente digitale",
+      "gandire matematica"
+    ],
+    "matchPercentage": 78,
+    "reason": "Full-stack Developer cu AI la Bosch Cluj: construirea de agenti AI, integrari cu API-uri si aplicatii LLM, domeniu direct de dezvoltare software la nivel de intrare/intermediar."
+  },
+  {
+    "url": "https://multijobs.ro/job/consultanta-fonduri-europene/342",
+    "title": "consultanta fonduri europene",
+    "company": "JUNIOR GROUP SRL",
+    "location": [
+      "Constanta",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:04:11.925Z",
+    "status": "scraped",
+    "tags": [
+      "planificare proiecte",
+      "reglementari legale"
+    ],
+    "matchPercentage": 73,
+    "reason": "Poziție de consultant fonduri europene potrivită pentru profilul de absolvent implicat în proiecte europene, ONG și documentare pe platforme electronice."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000113124977-internship-program",
+    "title": "Internship Program",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "Timișoara",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-20T11:15:25.335Z",
+    "status": "scraped",
+    "tags": [
+      "competente digitale",
+      "gandire matematica"
+    ],
+    "matchPercentage": 72,
+    "reason": "Program de internship de 6 luni la Bosch care include explicit studenti din Computer Science si permite alegerea ariei de activitate, deci potrivire partiala la nivel bun."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155728469-working-student-controlling-area",
+    "title": "Working Student - Controlling area",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-10-20T11:15:25.335Z",
+    "status": "scraped",
+    "tags": [
+      "redactare de rapoarte",
       "competente digitale"
     ],
-    "matchPercentage": 80,
-    "reason": "Potrivire directa: test automation/V&V in domeniul IT, la nivel de working student, accesibil fara experienta indelungata."
+    "matchPercentage": 72,
+    "reason": "Collectare si validare de date, raportare lunara si analize pentru planificare in controlling, potrivire partiala cu redactare de rapoarte si competentele digitale."
   },
   {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272623/SCHAEFFLER/Internship-Project-Management-Office",
-    "title": "Internship Project Management Office",
-    "company": "SCHAEFFLER ROMANIA SRL",
+    "url": "https://multijobs.ro/job/consultant-fonduri-europene/2023",
+    "title": "Consultant Fonduri Europene",
+    "company": "DGA EXPERT INVEST INTERNATIONAL S.R.L.",
     "location": [
-      "Iași",
+      "Bucuresti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:22:24.040Z",
+    "date": "2026-10-17T12:22:14.906Z",
     "status": "scraped",
     "tags": [
       "planificare proiecte",
-      "rapoarte"
+      "parteneriate institutionale"
     ],
-    "matchPercentage": 76,
-    "reason": "Internshipul de PMO se bazeaza direct pe planificarea si gestionarea proiectelor, urmarirea termenelor si redactarea rapoartelor, la nivelul potrivit."
-  },
-  {
-    "url": "https://multijobs.ro/job/expert-accesare-fonduri-europene/2188",
-    "title": "Expert accesare Fonduri Europene",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Resita",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:20:33.969Z",
-    "status": "scraped",
-    "tags": [
-      "planificare proiecte",
-      "competențe europene"
-    ],
-    "matchPercentage": 75,
-    "reason": "Expert fonduri europene, domeniu relevant dar nivelul poate fi peste entry-level."
-  },
-  {
-    "url": "https://www.undelucram.ro/ro/locuri-de-munca/manager-de-proiect-fonduri-europene/99749",
-    "title": "Manager de Proiect Fonduri Europene",
-    "company": "PPC PRODUCTIE ROMANIA S.R.L.",
-    "location": [
-      "București",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:14:28.973Z",
-    "status": "scraped",
-    "tags": [
-      "planificare proiecte",
-      "management proiecte"
-    ],
-    "matchPercentage": 75,
-    "reason": "Management proiecte fonduri europene, potrivire cu competențele de gestionare proiecte."
+    "matchPercentage": 72,
+    "reason": "Consultanță în fonduri europene se potrivește parțial cu competențele în planificarea proiectelor, reglementări europene și parteneriate instituționale, la nivel entry/junior."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/specialist-suport-it-si-mentenanta-data-center",
@@ -265,28 +316,115 @@
     "status": "scraped",
     "tags": [
       "competente digitale",
-      "gandire tehnologic"
+      "redactare rapoarte"
     ],
-    "matchPercentage": 75,
-    "reason": "Rolul de suport IT si mentenanta Data Center se potriveste partial cu competentele digitale si tehnice, avand nivel potrivit pentru junior."
+    "matchPercentage": 72,
+    "reason": "Rol de suport IT și mentenanță data center intră direct în domeniul IT și TIC, la nivel de specialitate potrivit pentru un absolvent."
   },
   {
-    "url": "https://www.ejobs.ro/user/locuri-de-munca/junior-engineer-global-trainee-zalau/99249296",
-    "title": "Junior Engineer (Global Trainee) | Zalău",
-    "company": "SILCOTUB SA",
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/4gesjRpnGd",
+    "title": "System Administrator L2",
+    "company": "E-INFRA S.A.",
     "location": [
-      "Zalau",
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-10-20T11:21:14Z",
+    "status": "scraped",
+    "tags": [
+      "competente digitale",
+      "TIC"
+    ],
+    "matchPercentage": 70,
+    "reason": "Rol IT concret (administrare sisteme, retele, suport tehnic) care foloseste direct competentele tale digitale, la nivel mid cu aproximativ 3 ani experienta, desi este on-site in Bucuresti."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272623/SCHAEFFLER/Internship-Project-Management-Office",
+    "title": "Internship Project Management Office",
+    "company": "SCHAEFFLER ROMANIA SRL",
+    "location": [
+      "Iași",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:06:32.548Z",
+    "date": "2026-10-17T12:22:24.040Z",
     "status": "scraped",
     "tags": [
-      "raționament tehnologic",
-      "gândire matematică"
+      "management de proiecte",
+      "raportare"
     ],
-    "matchPercentage": 72,
-    "reason": "Program de trainee pentru proaspăt absolvenți în inginerie electrică/automatică, aliniat facultății și competenței de raționament tehnologic."
+    "matchPercentage": 70,
+    "reason": "Internship in Project Management Office corespunde nivelului si foloseste planificare de proiecte, redactare rapoarte si lucru in echipa multiculturală."
+  },
+  {
+    "url": "https://multijobs.ro/job/consultant-fonduri-europene-bucuresti-hybrid/5781",
+    "title": "Consultant Fonduri Europene – București, Hybrid",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:21:59.558Z",
+    "status": "scraped",
+    "tags": [
+      "planificare proiecte",
+      "reglementari legale"
+    ],
+    "matchPercentage": 70,
+    "reason": "Rol de consultant fonduri europene, adecvat ca prim job în domeniul proiectelor europene și al managementului de proiecte, fără cerințe de seniority."
+  },
+  {
+    "url": "https://oferimdemunca.ro/job/consultant-scriere-proiecte-remote/",
+    "title": "Consultant scriere proiecte - Remote",
+    "company": "SYREM CONSULT S.R.L.",
+    "location": [
+      "București",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:18:49.570Z",
+    "status": "scraped",
+    "tags": [
+      "planificare",
+      "redactare rapoarte"
+    ],
+    "matchPercentage": 70,
+    "reason": "Redactarea documentației pentru fonduri europene folosește direct planificare de proiect, documentare pe platforme și redactare de rapoarte."
+  },
+  {
+    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Zurich-Switzerland/Trainee-in-der-Sozialforschung--befristet-auf-1-Jahr-_JR0880",
+    "title": "Trainee in der Sozialforschung (befristet auf 1 Jahr)",
+    "company": "YOUGOV CP ROMANIA S.R.L.",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-10-20T10:59:04.441Z",
+    "status": "scraped",
+    "tags": [
+      "cercetare sociala",
+      "redactare rapoarte"
+    ],
+    "matchPercentage": 68,
+    "reason": "Trainee in cercetare sociala cu redactare de raporte si documentare, relevant pentru cercetare in educatie si recunoasterea competentelor."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000150958359-working-student-industrial-engineering",
+    "title": "Working Student - Industrial Engineering",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-10-20T11:15:25.335Z",
+    "status": "scraped",
+    "tags": [
+      "redactare rapoarte",
+      "competente digitale"
+    ],
+    "matchPercentage": 68,
+    "reason": "Working student cu sarcini de documentare, colectare de baze de date, KPI si comunicare a solutiilor, deci partial in zona ta de documentare si management de proiecte."
   },
   {
     "url": "https://www.anuntul.ro/anunt-angajare-game-tester-experienta-nu-e-eeQryP",
@@ -303,8 +441,8 @@
       "competente digitale",
       "interpretare critica"
     ],
-    "matchPercentage": 70,
-    "reason": "Game testing poate implica testare si utilizare critica a TIC, dar sarcinile sunt partial tehnice pentru un profil de dezvoltare software."
+    "matchPercentage": 68,
+    "reason": "Game testing fără experiență cerută este o poziție entry-level în analiza și dezvoltarea software."
   },
   {
     "url": "https://multijobs.ro/job/helpdesk-trainee-brasov-hybrid/5152",
@@ -318,28 +456,28 @@
     "date": "2026-10-17T12:19:41.422Z",
     "status": "scraped",
     "tags": [
-      "competențe digitale"
+      "competente digitale",
+      "dezvoltare profesionala"
     ],
-    "matchPercentage": 68,
-    "reason": "Poziție de trainee în domeniul IT, potrivită nivelului, care folosește direct competențele digitale și de utilizare critică a TIC."
+    "matchPercentage": 66,
+    "reason": "Pozitie trainee in IT (helpdesk/technical support) la nivelul potrivit, insa sarcinile sunt de suport tehnic si mentenanta, nu de dezvoltare sau analiza software."
   },
   {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155962579-full-stack-developer-with-ai",
-    "title": "Full-stack Developer with AI",
-    "company": "ROBERT BOSCH SRL",
+    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Zurich-Switzerland/Junior-Research-Consultant---Real-Estate---Industries_JR0913",
+    "title": "Junior Research Consultant - Real Estate &amp; Industries",
+    "company": "YOUGOV CP ROMANIA S.R.L.",
     "location": [
-      "Cluj-Napoca",
-      "Romania"
+      "România"
     ],
     "salary": null,
-    "date": "2026-10-19T12:44:36.733Z",
+    "date": "2026-10-20T10:59:04.440Z",
     "status": "scraped",
     "tags": [
-      "competente digitale",
-      "rationament tehnologic"
+      "interpretare comparata",
+      "redactare de rapoarte"
     ],
-    "matchPercentage": 65,
-    "reason": "Dezvoltare full-stack cu AI in domeniul IT, fara cerinta senior declarata, dar nivelul exact nu e specificat."
+    "matchPercentage": 66,
+    "reason": "Proiecte de cercetare cantitativa de la conceptie la livrare, cu analiza datelor si coordonare, potrivire partiala cu competentele de cercetare si documentare."
   },
   {
     "url": "https://www.leohr.ro/jobs/network-technician-level-1-support/406/",
@@ -354,62 +492,10 @@
     "status": "scraped",
     "tags": [
       "competente digitale",
-      "rationament tehnologic"
-    ],
-    "matchPercentage": 64,
-    "reason": "Suport tehnic IT de nivel 1, in domeniul tehnologiei informatiei si la nivel de intrare, dar cu potrivire doar partiala."
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000150104699-working-student-production-it",
-    "title": "Working Student Production IT",
-    "company": "ROBERT BOSCH SRL",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-10-19T12:44:36.733Z",
-    "status": "scraped",
-    "tags": [
-      "competente digitale",
       "gandire matematica"
     ],
-    "matchPercentage": 63,
-    "reason": "Working student in productie IT se incadreaza in domeniul IT la nivel de student si foloseste competentele digitale si rationamentul tehnologic."
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000152838741-working-student-purchasing-project-management",
-    "title": "Working Student - Purchasing Project Management",
-    "company": "ROBERT BOSCH SRL",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-10-19T12:44:36.733Z",
-    "status": "scraped",
-    "tags": [
-      "gestionare proiecte",
-      "documentare"
-    ],
-    "matchPercentage": 62,
-    "reason": "Nivelul de working student e potrivit si sarcinile de coordonare/documentare a proiectelor se bazeaza pe competenta de gestionare a proiectelor, desi domeniul e achizitii."
-  },
-  {
-    "url": "https://seniorsoftware.ro/cariere/laravel-web-developer",
-    "title": "Job Laravel Web Developer",
-    "company": "SENIOR SOFTWARE AGENCY SRL",
-    "location": [
-      "București",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-19T11:30:23.537Z",
-    "status": "scraped",
-    "tags": [
-      "competente digitale",
-      "rationament tehnologic"
-    ],
-    "matchPercentage": 60,
-    "reason": "Dezvoltare web in domeniul IT, fara cerinte senior declarate, potrivit ca nivel de intrare."
+    "matchPercentage": 66,
+    "reason": "Suport tehnic IT de nivel 1 in retele, entry-level, in acord cu domeniul IT si competentele digitale."
   },
   {
     "url": "https://seniorsoftware.ro/cariere/consultant-implementare-erp-senior",
@@ -420,13 +506,30 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-19T11:30:23.537Z",
+    "date": "2026-10-20T10:36:39.232Z",
     "status": "scraped",
     "tags": [
-      "gestionare proiecte",
-      "redactare rapoarte"
+      "redactare rapoarte",
+      "documentare platforme"
     ],
-    "matchPercentage": 60,
-    "reason": "Implementare software cu documentatie de proiect si suport utilizatori, conectat la competentele de proiectare si redactare de documente."
+    "matchPercentage": 66,
+    "reason": "Consultant de implementare software cu suport pentru utilizatori si documentatie de proiect, aliniat cu competentele tale de documentare si redactare de rapoarte."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155425514-working-student-in-logistics-reporting-support",
+    "title": "Working Student in Logistics &amp; Reporting Support",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-10-20T11:15:25.335Z",
+    "status": "scraped",
+    "tags": [
+      "raportare",
+      "competente digitale"
+    ],
+    "matchPercentage": 65,
+    "reason": "Working student cu sarcini de raportare, calcul KPI si analiza de date, partial in acord cu competentele de raportare si TIC."
   }
 ]
