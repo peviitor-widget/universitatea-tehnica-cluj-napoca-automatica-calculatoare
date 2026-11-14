@@ -1,38 +1,428 @@
 [
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3445889",
-    "title": "PROGRAMATOR AJUTOR",
-    "company": "AROBS TRANSILVANIA SOFTWARE S.A.",
+    "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/details/Thales-Technology-Internship--Software-Development--Testing---IT-Operations_R0346859",
+    "title": "Thales Technology Internship: Software Development, Testing &amp; IT Operations",
+    "company": "THALES DIS ROMANIA S.R.L.",
     "location": [
-      "CLUJ-NAPOCA",
+      "București",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-13T07:05:28.408Z",
+    "date": "2026-11-09T09:01:37Z",
     "status": "scraped",
     "tags": [
-      "competente digitale",
-      "rationament tehnologic"
+      "dezvoltare software",
+      "competențe digitale"
     ],
-    "matchPercentage": 72,
-    "reason": "Programator ajutor entry-level în dezvoltare software, potrivit domeniului IT și nivelului de experiență."
+    "matchPercentage": 90,
+    "reason": "Internship direct în dezvoltare software, testare și operațiuni IT, cu nivel și domeniu potrivite."
   },
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3438054",
-    "title": "INGINER DE SISTEM ÎN INFORMATICA",
-    "company": "AROBS TRANSILVANIA SOFTWARE S.A.",
+    "url": "https://jobs.borgdesign.ro/#pos_3",
+    "title": "Operator",
+    "company": "BORG DESIGN SRL",
     "location": [
-      "CLUJ-NAPOCA",
+      "București",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-13T07:05:28.408Z",
+    "date": "2026-11-13T14:04:39.545Z",
+    "status": "scraped",
+    "tags": [
+      "dezvoltare software",
+      "TIC"
+    ],
+    "matchPercentage": 88,
+    "reason": "Dezvoltare software .NET/ASP.NET pentru nivel junior, potrivit domeniului IT si competentelor tehnice."
+  },
+  {
+    "url": "https://jobs.borgdesign.ro/#pos_2",
+    "title": "Junior Web Developer",
+    "company": "BORG DESIGN SRL",
+    "location": [
+      "București",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-13T14:04:39.545Z",
+    "status": "scraped",
+    "tags": [
+      "dezvoltare software",
+      "raționament tehnologic"
+    ],
+    "matchPercentage": 88,
+    "reason": "Dezvoltare web .NET la nivel junior, cu sarcini directe de programare și testare."
+  },
+  {
+    "url": "https://jobs.borgdesign.ro/#pos_7",
+    "title": "Junior Developer AI",
+    "company": "BORG DESIGN SRL",
+    "location": [
+      "București",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-13T14:04:39.545Z",
+    "status": "scraped",
+    "tags": [
+      "dezvoltare software",
+      "competențe digitale"
+    ],
+    "matchPercentage": 86,
+    "reason": "Rol junior de dezvoltare software în .NET, potrivit ca domeniu și nivel."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160562749-working-student-laboratory-support-electronics-testing",
+    "title": "Working Student Laboratory Support (Electronics Testing)",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-11-13T14:22:01.036Z",
+    "status": "scraped",
+    "tags": [
+      "rationament tehnologic",
+      "analiza"
+    ],
+    "matchPercentage": 82,
+    "reason": "Working student in testare electronica, cu analize si diagnostic tehnice relevante pentru automatica."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000159096995-working-student-it-support",
+    "title": "Working Student IT Support",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-11-13T14:22:01.036Z",
+    "status": "scraped",
+    "tags": [
+      "competente digitale",
+      "TIC"
+    ],
+    "matchPercentage": 80,
+    "reason": "Working student in suport IT, cu instalare si depanare hardware/software, nivel si domeniu potrivite."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000158677639-working-student-it-tools-support-admin",
+    "title": "Working Student - IT Tools Support &amp; Admin",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "Timișoara",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-13T14:22:01.036Z",
+    "status": "scraped",
+    "tags": [
+      "competente digitale",
+      "documentare"
+    ],
+    "matchPercentage": 76,
+    "reason": "Working student in suport si administrare unelte IT, cu testare si raportare tehnica."
+  },
+  {
+    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bucharest-Romania/Junior-Data-Scientist_JR1127",
+    "title": "Junior Data Scientist",
+    "company": "YOUGOV CP ROMANIA S.R.L.",
+    "location": [
+      "București",
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-11-13T13:59:14.467Z",
+    "status": "scraped",
+    "tags": [
+      "analiză software",
+      "gândire matematică"
+    ],
+    "matchPercentage": 75,
+    "reason": "Analiză de date și modele ML/NLP, domeniu tehnic potrivit parțial și nivel junior acceptabil."
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/4gesjRpnGd",
+    "title": "System Administrator L2",
+    "company": "E-INFRA S.A.",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-11-13T14:25:44Z",
+    "status": "scraped",
+    "tags": [
+      "competențe digitale",
+      "TIC"
+    ],
+    "matchPercentage": 70,
+    "reason": "Administrare de sisteme IT, relevantă pentru competențele digitale/TIC, deși L2 cere minim 3 ani experiență."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161457955-security-officer-for-it-operations-and-security-management",
+    "title": "Security Officer for IT Operations and Security Management",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "Timișoara",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-13T14:22:01.036Z",
+    "status": "scraped",
+    "tags": [
+      "documentare",
+      "TIC"
+    ],
+    "matchPercentage": 70,
+    "reason": "Rol de suport in securitate IT si documentare, nivel de intrare si domeniu partial potrivit."
+  },
+  {
+    "url": "https://seniorsoftware.ro/cariere/business-analist-erp",
+    "title": "Business analyst ERP",
+    "company": "SENIOR SOFTWARE AGENCY SRL",
+    "location": [
+      "București",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-13T13:35:56.764Z",
+    "status": "scraped",
+    "tags": [
+      "interpretare critica",
+      "documentare"
+    ],
+    "matchPercentage": 70,
+    "reason": "Business analyst ERP pentru analiza si documentatie functionala, aliniat partial competentelor de analiza si redactare."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155962579-full-stack-developer-with-ai",
+    "title": "Full-stack Developer with AI",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-13T14:22:01.036Z",
+    "status": "scraped",
+    "tags": [
+      "dezvoltare software",
+      "rationament tehnologic"
+    ],
+    "matchPercentage": 67,
+    "reason": "Dezvoltator full-stack cu AI la nivel mid, potrivit domeniului software si rationamentului tehnologic."
+  },
+  {
+    "url": "https://seniorsoftware.ro/cariere/laravel-web-developer",
+    "title": "Job Laravel Web Developer",
+    "company": "SENIOR SOFTWARE AGENCY SRL",
+    "location": [
+      "București",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-13T13:35:56.764Z",
     "status": "scraped",
     "tags": [
       "competente digitale",
       "rationament tehnologic"
     ],
-    "matchPercentage": 70,
-    "reason": "Inginer de sistem în informatică entry-level, în domeniul IT și cu experiență sub 3 ani."
+    "matchPercentage": 67,
+    "reason": "Dezvoltare web Laravel la nivel junior/mid, in domeniul software, cu potrivire partiala."
+  },
+  {
+    "url": "https://cariere.auchan.ro/job/tehnician-suport-l2-junior-contract-2-ani-283321",
+    "title": "Tehnician Suport L2 - Junior ( contract 2 ani)",
+    "company": "AUCHAN ROMÂNIA SA",
+    "location": [
+      "București",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-13T13:53:12.792Z",
+    "status": "scraped",
+    "tags": [
+      "competente digitale",
+      "TIC"
+    ],
+    "matchPercentage": 66,
+    "reason": "Post tehnic de suport IT junior, potrivit nivelului si competentelor digitale/TIC."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000158499546-sap-it-functional-consultant-in-logistic-area",
+    "title": "SAP IT Functional Consultant in Logistic Area",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "Timișoara",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-13T14:22:01.036Z",
+    "status": "scraped",
+    "tags": [
+      "competente digitale",
+      "rationament tehnologic"
+    ],
+    "matchPercentage": 65,
+    "reason": "Consultant functional SAP cu analiza cerintelor, potrivire partiala cu analiza software."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/Accesa/744000160815670",
+    "title": "Junior Product Owner with German – Academy",
+    "company": "ACCESA IT SYSTEMS SRL",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-11-13T13:50:54.949Z",
+    "status": "scraped",
+    "tags": [
+      "management proiecte",
+      "limbi straine"
+    ],
+    "matchPercentage": 65,
+    "reason": "Rol junior de Product Owner care valorifica managementul de proiecte si comunicarea in limbi straine, dar domeniul este doar partial tehnic."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156804059-it-help-desk-consultant-1st-level-with-german",
+    "title": "IT Help Desk Consultant 1st level with German",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "Timișoara",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-13T14:22:01.036Z",
+    "status": "scraped",
+    "tags": [
+      "TIC",
+      "limbi straine"
+    ],
+    "matchPercentage": 64,
+    "reason": "Help desk IT nivel 1-2 cu rezolvare de erori, potrivire partiala si nivel de intrare."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161437030-working-student-deep-learning-data-science",
+    "title": "Working student Deep Learning &amp; Data Science",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-13T14:22:01.036Z",
+    "status": "scraped",
+    "tags": [
+      "gandire matematica",
+      "TIC"
+    ],
+    "matchPercentage": 64,
+    "reason": "Working student in Deep Learning/Data Science, nivel de stagiu si domeniu IT cu baza matematica."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000159596465-data-engineer",
+    "title": "Data Engineer",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "Timișoara",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-13T14:22:01.036Z",
+    "status": "scraped",
+    "tags": [
+      "gandire matematica",
+      "competente digitale"
+    ],
+    "matchPercentage": 64,
+    "reason": "Data engineer la nivel intermediar, in domeniul software, cu potrivire partiala."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161438539-working-student-embedded-adas-software",
+    "title": "Working Student Embedded ADAS Software",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-13T14:22:01.036Z",
+    "status": "scraped",
+    "tags": [
+      "rationament tehnologic",
+      "TIC"
+    ],
+    "matchPercentage": 63,
+    "reason": "Working student in software embedded, nivel potrivit si domeniu tehnic IT."
+  },
+  {
+    "url": "https://seniorsoftware.ro/cariere/consultant-implementare-erp-senior",
+    "title": "Consultant Implementare XRP",
+    "company": "SENIOR SOFTWARE AGENCY SRL",
+    "location": [
+      "București",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-13T13:35:56.764Z",
+    "status": "scraped",
+    "tags": [
+      "management de proiect",
+      "documentare"
+    ],
+    "matchPercentage": 63,
+    "reason": "Consultant implementare software cu documentatie si management de proiect, potrivire partiala entry/mid."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000158682259-working-student-customer-master-data",
+    "title": "Working Student - Customer Master Data",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "Timișoara",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-13T14:22:01.036Z",
+    "status": "scraped",
+    "tags": [
+      "calitatea datelor",
+      "documentare"
+    ],
+    "matchPercentage": 62,
+    "reason": "Working student pe calitatea si migrarea datelor, potrivire partiala cu competentele digitale."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160547899-working-student-digitalization-for-logistics",
+    "title": "Working Student Digitalization for Logistics",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-11-13T14:22:01.036Z",
+    "status": "scraped",
+    "tags": [
+      "competente digitale",
+      "redactare rapoarte"
+    ],
+    "matchPercentage": 62,
+    "reason": "Working student in digitalizare, cu raportare si dashboarduri, potrivit competentelor digitale."
+  },
+  {
+    "url": "https://apply.workable.com/j/CEE68FAF2F",
+    "title": "Jira Administrator &amp; Integrations Specialist - Security",
+    "company": "SEDONA DIGITAL S.R.L.",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-11-13T14:14:17.651Z",
+    "status": "scraped",
+    "tags": [
+      "competențe digitale",
+      "management proiecte"
+    ],
+    "matchPercentage": 60,
+    "reason": "Administrare Jira și integrări IT, potrivire parțială cu competențele digitale și de management al proiectelor."
   }
 ]
