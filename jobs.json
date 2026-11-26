@@ -8,140 +8,31 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-24T17:06:24.251Z",
+    "date": "2026-11-25T16:54:33.955Z",
     "status": "scraped",
+    "tags": [
+      "competente digitale",
+      "gandire matematica"
+    ],
+    "matchPercentage": 95
+  },
+  {
+    "url": "https://tss-yonder.com/job/17829",
+    "title": "On-the-Job Trainee, Full-stack Developer",
+    "company": "YONDER SRL",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T14:19:13Z",
+    "status": "tested",
     "tags": [
       "dezvoltare software",
       "competente digitale"
     ],
-    "matchPercentage": 95,
-    "reason": "Junior Web Developer pe .NET/C# pentru studenți și absolvenți de informatică potrivește direct domeniul software și nivelul entry-level."
-  },
-  {
-    "url": "https://jobs.borgdesign.ro/#pos_2",
-    "title": "Junior Web Developer",
-    "company": "BORG DESIGN SRL",
-    "location": [
-      "București",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-24T17:06:24.251Z",
-    "status": "scraped",
-    "tags": [
-      "competente digitale",
-      "gandire matematica"
-    ],
-    "matchPercentage": 95,
-    "reason": "Dezvoltare web .NET/C# pentru student sau absolvent, domeniu și nivel perfect aliniate."
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162666109-working-student-technical-project-administration",
-    "title": "Working Student – Technical Project Administration",
-    "company": "ROBERT BOSCH SRL",
-    "location": [
-      "Cluj-Napoca",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-24T17:21:07.291Z",
-    "status": "scraped",
-    "tags": [
-      "planificare proiecte",
-      "documentare electronica"
-    ],
     "matchPercentage": 92,
-    "reason": "Working student în administrare tehnică de proiecte, cu metodologie, buget, calitate și livrabile."
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161437030-working-student-deep-learning-data-science",
-    "title": "Working student Deep Learning &amp; Data Science",
-    "company": "ROBERT BOSCH SRL",
-    "location": [
-      "Cluj-Napoca",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-24T17:21:07.291Z",
-    "status": "scraped",
-    "tags": [
-      "gandire matematica",
-      "competente digitale"
-    ],
-    "matchPercentage": 92,
-    "reason": "Poziția de working student în deep learning și data science din Cluj folosește direct gândirea matematică și competențele digitale, la nivel potrivit."
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000159596465-data-engineer",
-    "title": "Data Engineer",
-    "company": "ROBERT BOSCH SRL",
-    "location": [
-      "Timișoara",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-24T17:21:07.291Z",
-    "status": "scraped",
-    "tags": [
-      "dezvoltare software",
-      "rationament tehnologic"
-    ],
-    "matchPercentage": 92,
-    "reason": "Data Engineer intermediate cu Python, PySpark și pipeline-uri Azure Databricks reprezintă dezvoltare software directă la nivel mid."
-  },
-  {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/273099/Entry-Level-Jobs-in-TOP-Companies---Hipo.ro/Software-Engineer,-New-Grad---STRIPE",
-    "title": "Software Engineer, New Grad - STRIPE",
-    "company": "ENTRY SRL",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T15:36:05Z",
-    "status": "tested",
-    "tags": [
-      "competente digitale",
-      "gandire matematica"
-    ],
-    "matchPercentage": 90,
-    "reason": "Poziție de software engineer pentru new grad, domeniu IT direct și nivel entry-level."
-  },
-  {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/273258/Entry-Level-Jobs-in-TOP-Companies---Hipo.ro/Software-Engineer,-Intern---STRIPE",
-    "title": "Software Engineer, Intern - STRIPE",
-    "company": "ENTRY SRL",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T14:25:59Z",
-    "status": "tested",
-    "tags": [
-      "competente digitale",
-      "gandire matematica"
-    ],
-    "matchPercentage": 90,
-    "reason": "Internship de software engineer, domeniu software direct și nivel de student."
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161438539-working-student-embedded-adas-software",
-    "title": "Working Student Embedded ADAS Software",
-    "company": "ROBERT BOSCH SRL",
-    "location": [
-      "Cluj-Napoca",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-24T17:21:07.291Z",
-    "status": "scraped",
-    "tags": [
-      "rationament tehnologic",
-      "competente digitale"
-    ],
-    "matchPercentage": 90,
-    "reason": "Dezvoltarea de software embedded pentru ADAS în Cluj corespunde direct specializării în automatică și calculatoare, la nivel de student."
+    "reason": "Pozitia de trainee full-stack developer din Cluj foloseste direct dezvoltarea software si competentele digitale, la nivel entry-level."
   },
   {
     "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/222111/JumpStart---A-GenZ-Career-Hub/Programe-de-internship,-trainee-sau-joburi-entry-level-in-IT",
@@ -155,11 +46,11 @@
     "date": "2026-11-17T11:38:25Z",
     "status": "tested",
     "tags": [
-      "competențe digitale",
-      "TIC"
+      "competente digitale",
+      "gandire matematica"
     ],
     "matchPercentage": 90,
-    "reason": "Program dedicat internshipurilor și joburilor entry-level în IT, domeniu care folosește direct competențele digitale și TIC."
+    "reason": "Platforma ofera programe de internship, trainee si entry-level in IT, domeniu care foloseste direct competentele mele digitale."
   },
   {
     "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/222205/JumpStart---A-GenZ-Career-Hub/Programe-de-internship,-trainee-sau-job-uri-entry-level-in-Bucovina",
@@ -173,11 +64,11 @@
     "date": "2026-11-17T11:38:25Z",
     "status": "tested",
     "tags": [
-      "competențe digitale",
-      "TIC"
+      "competente digitale",
+      "documentare"
     ],
     "matchPercentage": 90,
-    "reason": "Programe de internship și entry-level în IT, chiar și în Bucovina, potrivite nivelului și domeniului."
+    "reason": "Programele entry-level din IT din Bucovina se potrivesc direct cu formarea mea in calculatoare si nivelul de student."
   },
   {
     "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/222115/JumpStart---A-GenZ-Career-Hub/Programe-de-internship,-trainee-sau-joburi-entry-level-in-Muntenia",
@@ -191,119 +82,64 @@
     "date": "2026-11-17T11:38:25Z",
     "status": "tested",
     "tags": [
-      "competențe digitale",
-      "TIC"
+      "competente digitale",
+      "gandire matematica"
     ],
     "matchPercentage": 90,
-    "reason": "Hub de carieră pentru internshipuri și joburi entry-level în IT, aliniat specializării și nivelului."
+    "reason": "Stagiile si joburile entry-level in IT din Muntenia corespund domeniului si nivelului meu de pregatire."
   },
   {
-    "url": "https://seniorsoftware.ro/cariere/laravel-web-developer",
-    "title": "Job Laravel Web Developer",
-    "company": "SENIOR SOFTWARE AGENCY SRL",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000150104699-working-student-production-it",
+    "title": "Working Student Production IT",
+    "company": "ROBERT BOSCH SRL",
     "location": [
-      "București",
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-11-25T17:00:02.313Z",
+    "status": "scraped",
+    "tags": [
+      "competente digitale",
+      "gestionare proiecte"
+    ],
+    "matchPercentage": 85,
+    "reason": "Working student în IT de producție, cu infrastructură și proiecte IT, domeniu și nivel potrivite."
+  },
+  {
+    "url": "https://www.artsoft-consult.ro/contact/internship-cv",
+    "title": "Internship",
+    "company": "ARTSOFT CONSULT SRL",
+    "location": [
+      "Cluj-Napoca",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-24T16:40:57.211Z",
+    "date": "2026-11-25T17:00:04.602Z",
     "status": "scraped",
     "tags": [
       "dezvoltare software",
       "competente digitale"
     ],
-    "matchPercentage": 88,
-    "reason": "Dezvoltarea aplicațiilor web în Laravel folosește direct analiza și dezvoltarea software, iar \"Senior\" apare doar în numele agenției, nu în titlul postului."
+    "matchPercentage": 85,
+    "reason": "Internship-ul la o companie de consultanta software din Cluj se potriveste direct cu dezvoltarea software si competentele digitale, la nivel de inceput."
   },
   {
-    "url": "https://seniorsoftware.ro/cariere/business-analist-erp",
-    "title": "Business analyst ERP",
-    "company": "SENIOR SOFTWARE AGENCY SRL",
+    "url": "https://multijobs.ro/job/programator-php-backend-cu-experienta-in-proiecte-customizate/99",
+    "title": "Programator PHP Backend cu experienta in proiecte customizate",
+    "company": "REAL LIFE MEDICAL S.R.L.",
     "location": [
-      "București",
+      "Târgu Mureș",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-24T16:40:57.211Z",
-    "status": "scraped",
-    "tags": [
-      "analiza software",
-      "documentare"
-    ],
-    "matchPercentage": 88,
-    "reason": "Analiza cerințelor și documentația funcțională ERP se suprapun direct pe analiza software și redactarea de rapoarte, fără cerințe senior."
-  },
-  {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/273259/Entry-Level-Jobs-in-TOP-Companies---Hipo.ro/Salesforce-Developer-Internship----Bitdefender",
-    "title": "Salesforce Developer Internship - Bitdefender",
-    "company": "ENTRY SRL",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T15:36:05Z",
+    "date": "2026-11-17T13:29:35Z",
     "status": "tested",
     "tags": [
       "competente digitale",
       "gandire matematica"
     ],
     "matchPercentage": 85,
-    "reason": "Internshipul de Salesforce Developer reprezinta dezvoltare software la nivel entry, exact in domeniul analizei si dezvoltarii software."
-  },
-  {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/273100/Entry-Level-Jobs-in-TOP-Companies---Hipo.ro/Software-Engineering-Internship---BearingPoint",
-    "title": "Software Engineering Internship - BearingPoint",
-    "company": "ENTRY SRL",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T15:36:05Z",
-    "status": "tested",
-    "tags": [
-      "competente digitale",
-      "gandire matematica"
-    ],
-    "matchPercentage": 85,
-    "reason": "Internship de inginerie software, domeniu IT direct și nivel entry-level, deși descrierea este generală."
-  },
-  {
-    "url": "https://jobs.borgdesign.ro/#pos_7",
-    "title": "Junior Developer AI",
-    "company": "BORG DESIGN SRL",
-    "location": [
-      "București",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-24T17:06:24.251Z",
-    "status": "scraped",
-    "tags": [
-      "competente digitale",
-      "gandire matematica"
-    ],
-    "matchPercentage": 85,
-    "reason": "Rol junior de dezvoltare software .NET, domeniu potrivit deși titlul menționează AI fără sarcini specifice."
-  },
-  {
-    "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Software-Engineer--Full-Stack-Angular-_R0125126",
-    "title": "Software Engineer (Full-Stack Angular)",
-    "company": "LSEG BUSINESS SERVICES RM S.R.L.",
-    "location": [
-      "București",
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-11-24T17:23:24.340Z",
-    "status": "scraped",
-    "tags": [
-      "competente digitale",
-      "rationament tehnologic"
-    ],
-    "matchPercentage": 85,
-    "reason": "Dezvoltarea full-stack Angular pe aplicații bogate în date se potrivește direct competențelor digitale și de analiză, iar nivelul nu depășește mid."
+    "reason": "Programatorul PHP Backend implica dezvoltare software, domeniu direct relevant, iar nivelul cu experienta se incadreaza la mid."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3399750",
@@ -317,47 +153,11 @@
     "date": "2026-11-16T13:05:46Z",
     "status": "verified",
     "tags": [
-      "prezentare orala",
-      "dezvoltare profesionala"
-    ],
-    "matchPercentage": 82,
-    "reason": "Formatorul de formatori valorifică direct educația nonformală și comunicarea orală, la nivel entry-level sub 3 ani experiență."
-  },
-  {
-    "url": "https://seniorsoftware.ro/cariere/administrator-it",
-    "title": "Administrator IT",
-    "company": "SENIOR SOFTWARE AGENCY SRL",
-    "location": [
-      "București",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-24T16:40:57.211Z",
-    "status": "scraped",
-    "tags": [
-      "competente digitale",
-      "rationament tehnologic"
+      "comunicare orala",
+      "gestionare proiecte"
     ],
     "matchPercentage": 80,
-    "reason": "Administrarea serverelor, rețelei, cloudului Azure și SQL Server folosește competențe digitale și raționament tehnologic la nivel entry/mid."
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000157457582-regional-network-peering-engineer",
-    "title": "Regional Network &amp; Peering Engineer",
-    "company": "ROBERT BOSCH SRL",
-    "location": [
-      "Timișoara",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-24T17:21:07.291Z",
-    "status": "scraped",
-    "tags": [
-      "competente digitale",
-      "rationament tehnologic"
-    ],
-    "matchPercentage": 80,
-    "reason": "Ingineria de rețea regională, cu monitorizare și asistarea inginerilor seniori, se potrivește competențelor digitale la nivel junior."
+    "reason": "Rolul de formator de formatori folosește direct educația nonformală, prezentarea orală și gestionarea proiectelor la nivel entry-level."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/specialist-suport-it-si-mentenanta-data-center",
@@ -371,119 +171,29 @@
     "date": "2026-11-17T08:26:38Z",
     "status": "tested",
     "tags": [
-      "competențe digitale",
-      "TIC"
+      "competente digitale",
+      "documentare"
     ],
     "matchPercentage": 80,
-    "reason": "Suportul IT și mentenanța de data center folosesc direct competențele digitale și TIC, la nivel specialist/mid."
+    "reason": "Suportul IT si mentenanta de data center folosesc direct competentele digitale, iar nivelul de specialist se incadreaza la entry-level/mid."
   },
   {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000157459840-network-infrastructure-routing-engineer",
-    "title": "Network Infrastructure &amp; Routing Engineer",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156804059-it-help-desk-consultant-1st-level-with-german",
+    "title": "IT Help Desk Consultant 1st level with German",
     "company": "ROBERT BOSCH SRL",
     "location": [
       "Timișoara",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-24T17:21:07.291Z",
+    "date": "2026-11-25T17:00:02.313Z",
     "status": "scraped",
     "tags": [
       "competente digitale",
-      "rationament tehnologic"
-    ],
-    "matchPercentage": 78,
-    "reason": "Ingineria rețelelor și routing-ului BGP folosește competențe digitale și raționament tehnologic, fără cerințe de nivel senior."
-  },
-  {
-    "url": "https://seniorsoftware.ro/cariere/consultant-implementare-erp-senior",
-    "title": "Consultant Implementare XRP",
-    "company": "SENIOR SOFTWARE AGENCY SRL",
-    "location": [
-      "București",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-24T16:40:57.211Z",
-    "status": "scraped",
-    "tags": [
-      "gestionare proiecte",
-      "documentare"
-    ],
-    "matchPercentage": 76,
-    "reason": "Implementarea software, suportul utilizatorilor și documentația de proiect folosesc gestionarea proiectelor și documentarea într-un rol consultant entry/mid."
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160543114-sap-o2c-functional-consultant",
-    "title": "SAP O2C Functional Consultant",
-    "company": "ROBERT BOSCH SRL",
-    "location": [
-      "Timișoara",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-24T17:21:07.291Z",
-    "status": "scraped",
-    "tags": [
-      "gestionare proiecte",
-      "documentare"
-    ],
-    "matchPercentage": 74,
-    "reason": "Consultantul funcțional SAP O2C lucrează la proiecte de implementare și documentare, folosind gestionarea proiectelor într-un rol de suport, nu de conducere."
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000163168454-security-officer",
-    "title": "Security Officer",
-    "company": "ROBERT BOSCH SRL",
-    "location": [
-      "Timișoara",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-24T17:21:07.291Z",
-    "status": "scraped",
-    "tags": [
-      "competente digitale",
-      "documentare"
-    ],
-    "matchPercentage": 72,
-    "reason": "Implementarea cerințelor de cybersecurity și menținerea documentației tehnice folosesc competențe digitale la nivel entry/mid."
-  },
-  {
-    "url": "https://www.artsoft-consult.ro/contact/internship-cv",
-    "title": "Internship",
-    "company": "ARTSOFT CONSULT SRL",
-    "location": [
-      "Cluj-Napoca",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-24T17:21:22.646Z",
-    "status": "scraped",
-    "tags": [
-      "competente digitale",
-      "gandire matematica"
+      "limbi straine"
     ],
     "matchPercentage": 70,
-    "reason": "Programul de internship de la o firma de consultanta IT din Cluj se potriveste domeniului meu, chiar daca sarcinile nu sunt detaliate."
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160198265-sap-p2s-rollout-consultant",
-    "title": "SAP P2S rollout consultant",
-    "company": "ROBERT BOSCH SRL",
-    "location": [
-      "Timișoara",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-24T17:21:07.291Z",
-    "status": "scraped",
-    "tags": [
-      "gestionare proiecte",
-      "analiza software"
-    ],
-    "matchPercentage": 68,
-    "reason": "Rollout-ul SAP P2S folosește analiza de proces și gestionarea proiectelor, iar rolul de consultant poate fi încadrat entry/mid."
+    "reason": "Suport IT nivel 1 în limba germană, domeniu IT și nivel entry-level potrivite."
   },
   {
     "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Zurich-Switzerland/Trainee-in-der-Sozialforschung--befristet-auf-1-Jahr-_JR0880",
@@ -493,47 +203,31 @@
       "România"
     ],
     "salary": null,
-    "date": "2026-11-24T17:01:04.376Z",
+    "date": "2026-11-25T16:51:22.430Z",
     "status": "scraped",
     "tags": [
       "documentare",
       "rapoarte"
     ],
-    "matchPercentage": 65,
-    "reason": "Traineeshipul de cercetare sociala foloseste direct documentarea de specialitate si redactarea de rapoarte la nivel de trainee, desi domeniul nu este strict IT."
+    "matchPercentage": 70,
+    "reason": "Traineeship-ul de cercetare sociala foloseste direct documentarea si redactarea de rapoarte, iar nivelul trainee este potrivit, desi domeniul nu este pur IT sau ONG."
   },
   {
-    "url": "https://cariere.auchan.ro/job/tehnician-suport-l2-junior-contract-2-ani-283321",
-    "title": "Tehnician Suport L2 - Junior ( contract 2 ani)",
-    "company": "AUCHAN ROMÂNIA SA",
-    "location": [
-      "București",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-24T16:55:32.375Z",
-    "status": "scraped",
-    "tags": [
-      "competente digitale"
-    ],
-    "matchPercentage": 65,
-    "reason": "Suport IT L2 junior, domeniu IT parțial relevant prin competențele digitale."
-  },
-  {
-    "url": "https://www.leohr.ro/jobs/it-support-technician-level-1-2/293/",
-    "title": "IT Support Technician (Level 1-2)",
-    "company": "LEOHR S.R.L.",
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/222109/JumpStart---A-GenZ-Career-Hub/Programe-de-internship-trainee-sau-joburi-entry-level-in-Inginerie",
+    "title": "Programe de internship trainee sau joburi entry-level in Inginerie",
+    "company": "JUMP START SRL",
     "location": [
       "Bucuresti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T13:34:20Z",
+    "date": "2026-11-17T11:38:25Z",
     "status": "tested",
     "tags": [
+      "rationament tehnologic",
       "competente digitale"
     ],
-    "matchPercentage": 65,
-    "reason": "Tehnician suport IT nivel 1-2, domeniu IT parțial relevant, fără detalii despre sarcini."
+    "matchPercentage": 68,
+    "reason": "Hubul de cariera pentru internshipuri in inginerie vizeaza domeniul tehnic si niveluri entry-level, dar oferta generica nu precizeaza sarcini specifice."
   }
 ]
